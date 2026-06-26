@@ -1,6 +1,13 @@
+---
+cover: ../.gitbook/assets/ChatGPT Image 25 juin 2026, 18_13_12.png
+coverY: 0
+---
+
 # Welcome to LiquidX
 
 LiquidX is a Telegram-native liquidity access platform built on USDT.
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 04_48_53 AM.png" alt=""><figcaption></figcaption></figure>
 
 It gives members a simple way to allocate capital into liquidity-based strategies operated by a real desk. The goal is to make market liquidity easier to access, easier to track, and easier to understand.
 
@@ -9,6 +16,8 @@ LiquidX is not a casino, not a fixed-yield product, and not a guaranteed return 
 Performance is variable. Capital is at risk. You should only allocate capital you can afford to place at risk.
 
 ## Core idea
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 03_07_41 AM.png" alt=""><figcaption></figcaption></figure>
 
 Most people see crypto through hype, price charts, and speculation.
 
@@ -34,6 +43,6 @@ LiquidX provides access to liquidity-based strategies. Performance is variable a
 
 Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing in this documentation is financial advice.
 
----
+***
 
 > **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
