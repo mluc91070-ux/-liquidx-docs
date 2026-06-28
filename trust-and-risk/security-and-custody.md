@@ -64,6 +64,36 @@ Before withdrawing, always verify:
 
 Crypto withdrawals are usually irreversible.
 
+## DVP settlement
+
+OTC transactions at LiquidX are executed under the **Delivery vs. Payment (DVP)** principle: delivery of the digital asset and payment occur simultaneously, eliminating counterparty settlement risk at the transaction level.
+
+## AML / KYC obligations
+
+In accordance with DFSA and VARA regulations, LiquidX maintains a rigorous AML/KYC program. Users are required to:
+
+* Provide complete, accurate, and up-to-date identity documents.
+* Declare the source of funds (SOF) and source of wealth (SOW) used for transactions.
+* Immediately report any change in personal, professional, or financial circumstances.
+* Not use the platform for money laundering, terrorist financing, tax evasion, or any illicit activity.
+
+LiquidX may report suspicious transactions to competent authorities (DIFC Financial Intelligence Unit, UAE FIU) without prior notice to the user.
+
+## Data protection
+
+LiquidX collects and processes only data strictly necessary for KYC, AML compliance, and transaction execution. Data is retained for the period required by applicable regulatory obligations and is never sold, shared, or transferred to third parties for commercial purposes.
+
+LiquidX complies with:
+
+* DIFC Data Protection Law (DIFC Law No. 5 of 2020)
+* General Data Protection Regulation (GDPR, EU 2016/679)
+
+## Infrastructure & hosting
+
+The LiquidX platform is hosted on cloud infrastructure located in the European Union and the United States, meeting international security standards including **ISO 27001** and **SOC 2**.
+
+For detailed hosting information, contact: support@liquidx.fund.
+
 ## Custody risk
 
 Custody and operational arrangements may involve wallet risk, key management risk, service provider risk, internal process risk, counterparty risk, and network risk.

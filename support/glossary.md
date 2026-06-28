@@ -57,6 +57,26 @@ Providing buy and sell liquidity to a market, often by quoting both sides and ma
 
 An illustrative reference figure that may describe expected or projected performance. It is not a guaranteed return.
 
+## AML / KYC
+
+Anti Money Laundering and Know Your Customer. Regulatory procedures required by the DFSA and VARA to verify identity, source of funds, and prevent financial crime.
+
+## DFSA
+
+Dubai Financial Services Authority. The independent financial regulator of the Dubai International Financial Centre (DIFC). Supervises financial services and digital assets under the Crypto Token Framework.
+
+## DIFC
+
+Dubai International Financial Centre. An independent financial free zone in Dubai with its own Common Law legal system. LiquidX FZE is domiciled in the DIFC.
+
+## Desk
+
+The OTC trading service operated by LiquidX FZE from the DIFC, Dubai. The Desk provides quotes, executes transactions, and manages settlement.
+
+## DVP (Delivery vs. Payment)
+
+A settlement mechanism ensuring that delivery of the digital asset and payment occur simultaneously, eliminating counterparty risk at the settlement level.
+
 ## OTC
 
 Over-the-counter. A transaction that happens directly between parties instead of through a public exchange order book.
@@ -64,6 +84,22 @@ Over-the-counter. A transaction that happens directly between parties instead of
 ## Pack
 
 A simple allocation tier in LiquidX, such as the Starter Pack, Builder Pack, Growth Pack, Operator Pack, Prime Pack, or Elite Pack.
+
+## RFQ (Request for Quote)
+
+A mechanism whereby the client requests a firm price for a given OTC transaction. The LiquidX Desk provides a price valid for a limited time (typically 30 to 120 seconds).
+
+## SOF / SOW
+
+Source of Funds / Source of Wealth. Verification of the origin of a client's funds and overall wealth, required as part of AML/KYC compliance.
+
+## VARA
+
+Virtual Assets Regulatory Authority. Dubai's virtual asset regulator. LiquidX is registered with VARA as a Virtual Asset Service Provider (VASP).
+
+## VASP
+
+Virtual Asset Service Provider. An entity registered with VARA to provide virtual asset services in compliance with UAE AML/KYC regulations.
 
 ## Projection
 

@@ -67,11 +67,31 @@ Operational failures may delay deposits, affect allocation, reduce performance, 
 
 Telegram, blockchains, wallets, exchanges, APIs, infrastructure providers, and internet services may experience downtime, congestion, censorship, exploits, or outages.
 
+## Technology risk
+
+Blockchain malfunctions (congestion, hard forks, network outages), technical infrastructure failures, or cyberattacks may affect the execution or settlement of transactions.
+
+Technology risk can exist even when systems are well-designed and reviewed.
+
 ## Regulatory and jurisdiction risk
 
 Access may be restricted in some jurisdictions.
 
 Rules can change, and LiquidX may refuse, suspend, restrict, or close access where required by law, compliance review, or internal policy.
+
+Changes to the regulatory framework in applicable jurisdictions (DIFC, UAE, Singapore, or others) may impact LiquidX's ability to provide certain services or the value of traded assets.
+
+## Banking counterparty risk
+
+Banks may freeze, delay, or refuse transfers related to digital assets despite regulatory compliance.
+
+LiquidX implements reasonable measures but cannot guarantee the absence of banking incidents affecting settlement or withdrawal timing.
+
+## Client error risk
+
+Any error in the communication of a wallet address, amount, network, or bank details is the sole responsibility of the user.
+
+Blockchain transactions are irreversible. A wrong address or network can result in permanent loss of funds.
 
 ## Total loss risk
 

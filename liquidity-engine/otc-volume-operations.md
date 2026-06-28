@@ -47,6 +47,28 @@ If liquidity is used to support eligible OTC activity, performance may come from
 
 This is conditional. LiquidX should not be understood as guaranteeing access to every OTC opportunity or guaranteeing that OTC activity will always generate profit.
 
+## RFQ process (Request for Quote)
+
+OTC transactions at LiquidX follow a structured RFQ protocol:
+
+1. **Quote Request** — The client specifies the asset pair (e.g. BTC/USDT), desired volume, and direction (buy or sell).
+2. **Price Provision** — The LiquidX Desk analyzes market conditions and provides a firm bid or ask price with a defined validity period.
+3. **Price Acceptance** — The client has a limited window (typically 30 to 120 seconds) to accept the price. Once the window expires, a new quote must be requested.
+4. **DVP Settlement** — Upon acceptance, delivery of the digital asset and payment occur simultaneously (Delivery vs. Payment), eliminating counterparty settlement risk.
+5. **Confirmation** — A written confirmation is issued summarizing the pair, volume, executed price, fees, timestamp, and unique transaction identifier.
+
+Minimum transaction volume is set at the equivalent of **USD 25,000**. LiquidX reserves the right to adjust this threshold at any time.
+
+## Fee structure
+
+Transaction fees are embedded in the spread (the difference between bid and ask price) communicated at the time of the RFQ quote.
+
+* No hidden fees are applied.
+* The effective commission is stated in the transaction confirmation.
+* Settlement is made in AED, USD, or USDC/USDT depending on the pair traded.
+* Settlement times: instant for stablecoins, T+0 to T+1 for bank transfers in AED/USD.
+* Gas and blockchain network fees are borne by the client unless explicitly agreed otherwise.
+
 ## OTC risks
 
 OTC activity may involve:

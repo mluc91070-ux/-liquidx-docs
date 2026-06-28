@@ -9,6 +9,29 @@ LiquidX may not be available everywhere.
 
 Access can depend on local law, sanctions rules, age requirements, compliance checks, internal risk policy, product availability, and operational capacity.
 
+## Operating entities
+
+| Entity | Jurisdiction | Registration |
+|---|---|---|
+| LiquidX FZE | DIFC, Dubai, UAE | No. 3874, DIFC Companies Registry |
+| LiquidX (Singapore) Pte. Ltd. | Singapore | UEN 201841931C, ACRA |
+
+LiquidX FZE is regulated by the **DFSA** (Dubai Financial Services Authority) and registered with **VARA** (Virtual Assets Regulatory Authority) as a Virtual Asset Service Provider (VASP).
+
+## Governing law
+
+* **Dubai entity:** laws of the DIFC; disputes submitted to the exclusive jurisdiction of the **DIFC Courts**.
+* **Singapore entity:** laws of the Republic of Singapore; disputes submitted to the **Singapore Courts**.
+
+## Sanctioned jurisdictions
+
+LiquidX does not provide services to residents or citizens of jurisdictions subject to international sanctions, including lists maintained by:
+
+* OFAC (United States)
+* European Union
+* United Nations
+* United Arab Emirates
+
 ## User responsibility
 
 Users are responsible for understanding whether they are allowed to use this type of product in their country or region.

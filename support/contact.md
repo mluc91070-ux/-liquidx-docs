@@ -46,6 +46,13 @@ If you suspect phishing, impersonation, fake support, or a cloned bot:
 * Report the account to Telegram.
 * Contact LiquidX through the official bot.
 
+## Email & Telegram support team
+
+For legal, compliance, or account questions you can also reach the team directly:
+
+* **Email:** support@liquidx.fund
+* **Telegram support team:** [@liquidxteam](https://t.me/liquidxteam)
+
 ## What support cannot do
 
 Support cannot guarantee returns, bypass product rules, promise instant withdrawals in every condition, recover funds sent to an incorrect address, or approve use in a restricted jurisdiction.

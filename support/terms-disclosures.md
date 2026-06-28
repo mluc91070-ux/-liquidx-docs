@@ -74,18 +74,57 @@ Users are responsible for understanding whether they are allowed to use this typ
 
 Nothing in this documentation is a public offer where such offer would be restricted, unlawful, or require authorization that has not been obtained.
 
+## Legal entity
+
+LiquidX services are operated by **LiquidX FZE**, a Free Zone Establishment registered in the Dubai International Financial Centre (DIFC), Dubai, United Arab Emirates (Registration No. 3874, DIFC Companies Registry).
+
+A Singapore entity also operates certain activities: **LiquidX (Singapore) Pte. Ltd.** (UEN 201841931C, registered at 30 Raffles Place, #19-08 Chevron House, Singapore 048622).
+
+## Regulatory framework
+
+LiquidX operates in compliance with the regulatory frameworks of the DIFC and the UAE:
+
+* **DFSA** (Dubai Financial Services Authority) — independent financial regulator of the DIFC, supervising digital assets under the Crypto Token Framework.
+* **VARA** (Virtual Assets Regulatory Authority) — LiquidX is registered as a **Virtual Asset Service Provider (VASP)** and complies with all AML/KYC, Source of Funds (SOF), and Source of Wealth (SOW) obligations.
+
+## Governing law & dispute resolution
+
+These terms are governed by the laws of the **Dubai International Financial Centre (DIFC)**. Any dispute shall be submitted to the exclusive jurisdiction of the **DIFC Courts**.
+
+For Singapore activities, the laws of the Republic of Singapore apply and disputes are submitted to the Singapore Courts.
+
+Parties shall endeavor to seek amicable resolution through good-faith negotiation for a minimum of 30 days before submitting to formal proceedings.
+
+## Client eligibility
+
+Access to LiquidX OTC services requires:
+
+* Being at least 18 years of age with legal capacity to enter contracts.
+* Completing the KYC process (valid ID, proof of address, SOF/SOW verification).
+* Not being a resident or citizen of a jurisdiction subject to international sanctions (OFAC, EU, UN, UAE lists).
+* Not acting on behalf of a third party without prior disclosure.
+
 ## Official channels
 
-Only use the official LiquidX bot: **@LiquidXBot**.
+Only use the official LiquidX bot: **[@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)**.
 
 LiquidX will never ask for seed phrases, private keys, or personal wallet transfers through private messages.
 
 ## Updates
 
-LiquidX may update product rules, risk notices, availability, packs, referral terms, withdrawal processes, and documentation.
+LiquidX reserves the right to amend these terms at any time. Amendments take effect upon publication. Continued use of the Platform following publication constitutes acceptance.
 
 Users should review the latest information inside the official app and official channels.
 
+## Contact
+
+For legal or compliance questions: **support@liquidx.fund**
+
+Full Terms of Service: [https://liquidx.fund/terms](https://liquidx.fund/terms)
+Legal Notice: [https://liquidx.fund/legal](https://liquidx.fund/legal)
+
+*Last updated: June 26, 2026.*
+
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)**.
