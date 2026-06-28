@@ -29,18 +29,21 @@ Before sending, verify:
 
 Deposits may require network confirmations and internal security checks before the dashboard updates.
 
-## 3. Choose a pack
+## 3. Choose a tier
 
-After funding, choose a liquidity pack.
+After funding, choose a liquidity tier.
 
-Packs are simple allocation tiers. They are not guaranteed-return products. The available packs are:
+Tiers are simple allocation levels. They are not guaranteed-return products. The available tiers are:
 
-* $25 Starter Pack.
-* $50 Builder Pack.
-* $100 Growth Pack.
-* $300 Operator Pack.
-* $500 Prime Pack.
-* $1,000 Elite Pack.
+| Tier | Min. Deposit | Rate (approx.) |
+|---|---:|---:|
+| Platinum | $500 | ≈36%/mo |
+| Diamond | $1,500 | ≈40%/mo |
+| Captain | $5,000 | ≈44%/mo |
+| Ambassador | $15,000 | ≈47%/mo |
+| VIP | $50,000 | ≈50%/mo |
+
+Rates are variable, set from last month's average. Captain, Ambassador, and VIP tiers require qualified invites to unlock. See [Allocation Tiers](../product/allocation-tiers.md) for full details.
 
 ## 4. Allocation starts
 

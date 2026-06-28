@@ -9,9 +9,29 @@ LiquidX may show monthly targets, projected rewards, or estimated performance in
 
 These figures are illustrative. They are not guaranteed returns.
 
+## Current rates by tier
+
+Rates shown in the app are set from the **previous month's average** performance. They are variable and may change each month.
+
+| Tier | Approx. Monthly Rate |
+|---|---:|
+| Platinum | ≈36%/mo |
+| Diamond | ≈40%/mo |
+| Captain | ≈44%/mo |
+| Ambassador | ≈47%/mo |
+| VIP | ≈50%/mo |
+
+These figures are illustrative. They reflect last month's average and do not guarantee future performance.
+
+## Auto-compound
+
+The app shows projected auto-compound performance assuming daily reinvestment of yield.
+
+Auto-compound projections assume yield is credited and reinvested every day at the same rate. In practice, rates change monthly and actual compounding behavior may differ. Auto-compound projections should not be read as a guarantee of annual returns.
+
 ## What monthly targets mean
 
-Monthly targets help users understand the type of performance a pack or vault may be aiming for under certain assumptions.
+Monthly targets help users understand the type of performance a tier or vault may be aiming for under certain assumptions.
 
 They may be based on internal expectations about:
 
