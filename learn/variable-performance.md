@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Understanding Variable Performance
 
 Variable performance means results change over time.

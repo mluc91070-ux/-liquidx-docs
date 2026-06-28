@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Liquidity Captains
 
 LiquidX ambassadors and KOL partners are called **Liquidity Captains**.

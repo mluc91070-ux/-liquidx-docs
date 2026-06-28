@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Risk Rules for Allocators
 
 Before allocating through LiquidX, follow these rules.

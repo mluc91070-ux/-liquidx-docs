@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # FAQ
 
 ## What is LiquidX?

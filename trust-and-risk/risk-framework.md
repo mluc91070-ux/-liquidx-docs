@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Risk Framework
 
 LiquidX is an allocation product with real risk.

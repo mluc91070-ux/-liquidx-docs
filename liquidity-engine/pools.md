@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Pools
 
 LiquidX may group user capital into managed liquidity pools.

@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Allocation Tiers
 
 LiquidX packs are simple allocation tiers.

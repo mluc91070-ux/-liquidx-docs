@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # How LiquidX Works
 
 LiquidX gives users a simple way to access liquidity-based allocation through Telegram.

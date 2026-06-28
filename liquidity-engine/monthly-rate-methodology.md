@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Rewards and Monthly Targets
 
 LiquidX may show monthly targets, projected rewards, or estimated performance inside the app or dashboard.

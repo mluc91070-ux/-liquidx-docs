@@ -1,5 +1,5 @@
----
-cover: ../.gitbook/assets/ChatGPT Image 25 juin 2026, 18_13_12.png
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
 coverY: 0
 ---
 

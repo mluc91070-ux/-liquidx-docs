@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Withdrawals
 
 Users can request withdrawals inside the LiquidX Telegram app.

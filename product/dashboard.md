@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Dashboard
 
 The LiquidX dashboard is the user's main tracking surface.

@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Terms & Disclosures
 
 This page summarizes important product disclosures in plain language.

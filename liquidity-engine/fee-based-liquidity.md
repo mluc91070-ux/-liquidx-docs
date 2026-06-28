@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Fee-Based Liquidity
 
 Some market participants pay for access to liquidity.

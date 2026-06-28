@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # What Is LiquidX?
 
 LiquidX is a Telegram-native liquidity access layer.

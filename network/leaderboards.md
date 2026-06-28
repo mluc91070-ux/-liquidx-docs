@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Leaderboards
 
 Leaderboards may be used to show community growth and campaign performance.

@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Fund Segregation
 
 Fund segregation means keeping different categories of funds separate in internal accounting and operations.

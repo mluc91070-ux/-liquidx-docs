@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # What LiquidX Is Not
 
 LiquidX is designed to make liquidity allocation easier to understand. That starts with being clear about what the product is not.

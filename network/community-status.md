@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Community Status
 
 Community status helps LiquidX recognize users who contribute real value to the network.

@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Quick Start
 
 This page explains the basic LiquidX journey from first open to dashboard tracking.

@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Where Performance Comes From
 
 This is one of the most important ideas in LiquidX.

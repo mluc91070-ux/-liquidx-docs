@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Official Bot & Anti-Phishing
 
 There is only one official LiquidX bot:

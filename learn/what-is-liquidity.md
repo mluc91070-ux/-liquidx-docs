@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # What Is Liquidity?
 
 Liquidity means how easily an asset can be bought or sold without causing a major price move.

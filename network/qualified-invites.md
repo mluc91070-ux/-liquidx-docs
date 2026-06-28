@@ -1,3 +1,8 @@
+﻿---
+cover: ../.gitbook/assets/gitbook-cover.png
+coverY: 0
+---
+
 # Qualified Invites
 
 A qualified invite is an invite that brings a real user into LiquidX with a real understanding of the product.
