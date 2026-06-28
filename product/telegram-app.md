@@ -36,6 +36,8 @@ The Telegram Mini App should make important actions clear:
 * Withdrawal request status.
 * Risk notices and product rules.
 
+<figure><img src="../.gitbook/assets/dashboard.png" alt="LiquidX App Dashboard"><figcaption>The LiquidX Mini App dashboard — everything accessible directly inside Telegram.</figcaption></figure>
+
 The app should help users understand what is happening without requiring them to trade manually.
 
 ## Security expectations

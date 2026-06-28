@@ -9,6 +9,8 @@ LiquidX grows through community-powered education.
 
 Every user can invite others, but referral rewards are based on real deposit activity, not fake users, bots, empty signups, spam, or giveaway traffic.
 
+<figure><img src="../.gitbook/assets/referral.png" alt="LiquidX Referral Screen"><figcaption>Referral screen — share your link, track invited users and monitor rewards directly in the app.</figcaption></figure>
+
 ## How referrals work
 
 The basic referral flow is:

@@ -9,6 +9,8 @@ Users can request withdrawals inside the LiquidX Telegram app.
 
 Withdrawals are part of the product experience, but they may not always be instant. Timing can depend on product rules, liquidity conditions, security checks, and blockchain network status.
 
+<figure><img src="../.gitbook/assets/withdrawal.png" alt="LiquidX Withdrawal Screen"><figcaption>Withdrawal request screen — confirm destination, network and amount before submitting.</figcaption></figure>
+
 ## Withdrawal flow
 
 A typical withdrawal process may include:

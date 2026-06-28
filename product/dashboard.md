@@ -9,6 +9,8 @@ The LiquidX dashboard is the user's main tracking surface.
 
 It is designed to show what the user has deposited, which pack is active, how allocation is progressing, what projections are visible, and whether referral or withdrawal activity is pending.
 
+<figure><img src="../.gitbook/assets/dashboard.png" alt="LiquidX Dashboard"><figcaption>LiquidX dashboard — balance, allocation status, projections and referral rewards in one view.</figcaption></figure>
+
 ## Core dashboard items
 
 The dashboard should help users track:

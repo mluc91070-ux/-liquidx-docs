@@ -59,6 +59,8 @@ The dashboard should help users track:
 * Referral rewards.
 * Withdrawal status.
 
+<figure><img src="../.gitbook/assets/dashboard.png" alt="LiquidX Dashboard"><figcaption>Your dashboard — track balance, allocation, performance and referrals in real time.</figcaption></figure>
+
 Projections are for transparency. They are not promises.
 
 ## 6. Request withdrawals
@@ -67,11 +69,15 @@ Users can request withdrawals inside the app.
 
 Withdrawals may depend on pack rules, lock periods, vault cycles, liquidity availability, processing windows, security checks, and network conditions.
 
+<figure><img src="../.gitbook/assets/withdrawal.png" alt="LiquidX Withdrawal Screen"><figcaption>Withdrawal screen — verify your address and network carefully before confirming.</figcaption></figure>
+
 ## 7. Invite real users
 
 Every user can invite others through referral.
 
 Referral rewards are based on real deposit activity, not fake accounts, bots, or giveaway traffic. Good referrers educate users before they allocate.
+
+<figure><img src="../.gitbook/assets/referral.png" alt="LiquidX Referral Screen"><figcaption>Referral screen — share your link and track invited users and rewards.</figcaption></figure>
 
 ---
 
