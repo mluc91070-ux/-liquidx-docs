@@ -14,6 +14,7 @@
 
 * [How LiquidX Works](product/how-it-works.md)
 * [Telegram App](product/telegram-app.md)
+* [Deposits](product/deposits.md)
 * [Allocation Tiers](product/allocation-tiers.md)
 * [Dashboard](product/dashboard.md)
 * [Withdrawals](product/withdrawals.md)
@@ -22,21 +23,26 @@
 
 * [Where Performance Comes From](liquidity-engine/where-performance-comes-from.md)
 * [OTC Volume Operations](liquidity-engine/otc-volume-operations.md)
+* [Pools](liquidity-engine/pools.md)
+* [Vaults](liquidity-engine/vaults.md)
 * [Market Making](liquidity-engine/market-making.md)
 * [Fee-Based Liquidity](liquidity-engine/fee-based-liquidity.md)
-* [Monthly Rate Methodology](liquidity-engine/monthly-rate-methodology.md)
+* [Rewards and Monthly Targets](liquidity-engine/monthly-rate-methodology.md)
 
 ## Network
 
 * [Referral Program](network/referral-program.md)
 * [Qualified Invites](network/qualified-invites.md)
+* [Liquidity Captains](network/liquidity-captains.md)
 * [Community Status](network/community-status.md)
+* [Leaderboards](network/leaderboards.md)
 
 ## Trust & Risk
 
 * [Security & Custody](trust-and-risk/security-and-custody.md)
 * [Official Bot & Anti-Phishing](trust-and-risk/official-bot-anti-phishing.md)
 * [Risk Framework](trust-and-risk/risk-framework.md)
+* [Fund Segregation](trust-and-risk/fund-segregation.md)
 * [Jurisdiction & Availability](trust-and-risk/jurisdiction-availability.md)
 
 ## Learn
@@ -45,9 +51,11 @@
 * [What Is Market Making?](learn/what-is-market-making.md)
 * [What Is OTC Trading?](learn/what-is-otc.md)
 * [Understanding Variable Performance](learn/variable-performance.md)
+* [Risk Rules for Allocators](learn/risk-rules.md)
 
 ## Support
 
 * [FAQ](support/faq.md)
 * [Glossary](support/glossary.md)
+* [Contact](support/contact.md)
 * [Terms & Disclosures](support/terms-disclosures.md)

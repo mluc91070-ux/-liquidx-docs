@@ -1,55 +1,70 @@
-# Monthly Rate Methodology
+# Rewards and Monthly Targets
 
-The monthly rate is a method, not a promise.
+LiquidX may show monthly targets, projected rewards, or estimated performance inside the app or dashboard.
 
-LiquidX uses a backward-looking reference model.
+These figures are illustrative. They are not guaranteed returns.
 
-## How the monthly rate is set
+## What monthly targets mean
 
-### Step 1 — The desk operates during the month
+Monthly targets help users understand the type of performance a pack or vault may be aiming for under certain assumptions.
 
-Liquidity operations run across selected strategies.
+They may be based on internal expectations about:
 
-These may include OTC volume, market making, fee-based routing, and commodities-linked liquidity.
+* Liquidity demand.
+* OTC flow.
+* Market activity.
+* Vault performance.
+* Route capacity.
+* Fee opportunities.
+* Risk limits.
+* Costs and execution conditions.
 
-### Step 2 — The month closes
+Targets are planning references, not promises.
 
-At the end of the month, the desk reviews realized activity.
+## What affects actual performance
 
-This includes gains, fees, costs, drawdowns, liquidity constraints, and operational results.
+Actual performance may be higher, lower, delayed, or negative depending on:
 
-### Step 3 — The reference average is calculated
+* OTC activity.
+* Market volatility.
+* Liquidity availability.
+* Spread conditions.
+* Counterparty behavior.
+* Stablecoin conditions.
+* Vault cycles.
+* Security reviews.
+* Network conditions.
+* Operational costs.
+* Risk controls.
 
-LiquidX calculates the realized monthly average.
+If risk conditions worsen, LiquidX may reduce activity, pause certain routes, delay withdrawals, or apply additional review.
 
-This number is backward-looking.
+## Dashboard projections
 
-It is not a forecast.
+Dashboard projections are for transparency.
 
-### Step 4 — Tier references are updated
+They should help users see how the platform is currently estimating activity, but they should not be read as a contract, guarantee, fixed yield, or promise of future profit.
 
-The platform updates the monthly reference rate for each tier according to the published methodology.
+## Referral rewards
 
-## What this means
+Referral rewards may also be shown in the dashboard.
 
-The rate is not chosen to look attractive.
+Referral rewards depend on real users and real deposit behavior. Fake accounts, bots, spam traffic, and giveaway hunters should not be treated as qualified growth.
 
-The rate should reflect realized desk activity.
+## Language to avoid
 
-The rate can change.
+Users, referrers, KOLs, and Liquidity Captains should avoid saying:
 
-The rate can go down.
+* Guaranteed yield.
+* Fixed monthly profit.
+* Risk-free.
+* No loss possible.
+* Easy money.
+* Double your money.
+* Passive income guaranteed.
 
-The rate does not protect capital.
-
-## Past performance
-
-Past performance is not a reliable guide to future performance.
-
-A previous strong month does not mean the next month will be strong.
-
-Only allocate capital you can afford to place at risk.
+The correct message is: performance is variable, capital is at risk, and monthly targets are illustrative.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

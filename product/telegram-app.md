@@ -2,45 +2,57 @@
 
 LiquidX is Telegram-native.
 
-The Telegram app is the main access point for members.
+The product is designed so users can access the main workflow from inside Telegram instead of moving across multiple websites, dashboards, exchanges, and support channels.
 
-## What you can do inside Telegram
+## Why Telegram matters
 
-Inside the official LiquidX bot, members can:
+Telegram is familiar to many crypto users. It supports communities, bots, Mini Apps, alerts, and referral sharing in one environment.
 
-* Create an account.
-* Select a tier.
-* Generate deposit instructions.
-* Track deposit confirmation.
-* View allocation status.
-* View dashboard summaries.
+LiquidX uses that environment to make liquidity allocation easier to access:
+
+* Open the app from the official bot.
+* Deposit USDT.
+* Select a pack.
+* Track dashboard status.
+* Share referral links.
 * Request withdrawals.
-* Access referral links.
-* Check tier progression.
-* Read risk notes.
-* Contact support.
+* Receive official updates.
 
-## Official bot
+## What users should see
 
-The only official bot is:
+The Telegram Mini App should make important actions clear:
 
-**@LiquidXBot**
+* Current balance.
+* Deposit instructions.
+* Pack options.
+* Allocation status.
+* Projected performance.
+* Referral rewards.
+* Withdrawal request status.
+* Risk notices and product rules.
 
-Always verify the handle manually.
+The app should help users understand what is happening without requiring them to trade manually.
 
-LiquidX will never DM you first asking for funds.
+## Security expectations
 
-## Telegram safety rules
+Telegram access also creates phishing risk. Users should always verify that they are using the official bot: **@LiquidXBot**.
 
-To protect yourself:
+LiquidX will never:
 
-* Never send funds to a wallet received by private DM.
-* Never trust screenshots as proof of an official address.
-* Always use the deposit flow inside the official bot.
-* Do not share private keys or seed phrases.
-* LiquidX support will never ask for your seed phrase.
-* Report impersonators immediately.
+* Message first asking for funds.
+* Ask for seed phrases or private keys.
+* Ask users to send funds to a personal wallet.
+* Promise guaranteed returns.
+* Tell users to bypass the official app.
+
+If a message, bot, group, or link creates doubt, stop and verify through official channels.
+
+## Product limits
+
+Telegram makes the experience simpler, but it does not remove risk.
+
+Users are still exposed to market risk, liquidity risk, stablecoin risk, counterparty risk, operational risk, network risk, and withdrawal timing risk.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

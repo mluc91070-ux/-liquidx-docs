@@ -1,37 +1,65 @@
 # Risk Rules for Allocators
 
-Before allocating, follow these rules.
+Before allocating through LiquidX, follow these rules.
 
-## Rule 1 — Do not allocate emergency money
+## Rule 1: Do not allocate emergency money
 
-Do not allocate rent, food money, debt repayment money, school fees, medical money, or money you cannot afford to lose.
+Do not allocate rent, food money, debt repayment money, school fees, medical money, business obligations, or emergency reserves.
 
-## Rule 2 — Understand the product first
+If losing the allocation would damage your life, do not deposit it.
+
+## Rule 2: Understand the product first
 
 Read the documentation before depositing.
 
-If you do not understand how LiquidX works, do not allocate yet.
+At minimum, understand:
 
-## Rule 3 — Start small
+* What LiquidX is.
+* How deposits work.
+* What packs are.
+* What pools and vaults do.
+* Where performance may come from.
+* How withdrawals work.
+* What risks apply.
+
+If you do not understand the product, do not allocate yet.
+
+## Rule 3: Start small
 
 If eligible, start with an amount that lets you learn the platform without emotional pressure.
 
-## Rule 4 — Never trust guaranteed return claims
+The $25 Starter Pack exists so users can begin with simple access rather than oversized exposure.
 
-If someone tells you LiquidX is guaranteed, they are wrong.
+## Rule 4: Never trust guaranteed-return claims
 
-## Rule 5 — Use only official links
+If someone says LiquidX is guaranteed, risk-free, fixed-profit, or impossible to lose on, they are wrong.
 
-Use only the official bot and official channels.
+This applies even if the person is a referrer, community member, KOL, or promoter.
 
-## Rule 6 — Keep your own records
+## Rule 5: Use only official links
 
-Track your deposits, withdrawals, rewards, and screenshots.
+Use only the official bot: **@LiquidXBot**.
 
-## Rule 7 — Respect your jurisdiction
+Never send funds to a wallet address received by private message. Never share seed phrases or private keys.
 
-Do not use LiquidX if you are not allowed to use this type of product in your country.
+## Rule 6: Keep your own records
+
+Track your deposits, transaction hashes, pack selections, withdrawal requests, referral rewards, and support conversations.
+
+Good records make it easier to understand your own activity and resolve support issues.
+
+## Rule 7: Respect your jurisdiction
+
+Do not use LiquidX if you are not allowed to use this type of product in your country or region.
+
+Availability may change based on local rules, internal policy, and compliance requirements.
+
+## Rule 8: Educate before inviting
+
+If you refer others, explain the risks clearly.
+
+Good referrers help users understand LiquidX. They do not spam, mislead, pressure, or promise guaranteed returns.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

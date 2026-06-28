@@ -1,59 +1,75 @@
 # Withdrawals
 
-LiquidX supports USDT withdrawal requests through the official Telegram app.
+Users can request withdrawals inside the LiquidX Telegram app.
 
-## How to request a withdrawal
+Withdrawals are part of the product experience, but they may not always be instant. Timing can depend on product rules, liquidity conditions, security checks, and blockchain network status.
 
-1. Open the official LiquidX bot.
-2. Go to your dashboard.
-3. Select withdrawal.
-4. Enter or confirm your withdrawal address.
-5. Review the withdrawal details.
-6. Confirm the request.
-7. Track the withdrawal status.
+## Withdrawal flow
+
+A typical withdrawal process may include:
+
+1. Open the official LiquidX Telegram Mini App.
+2. Choose the withdrawal option.
+3. Review available balance and pack rules.
+4. Enter or confirm the destination wallet.
+5. Confirm the network and amount.
+6. Complete any required security checks.
+7. Submit the request.
+8. Track status on the dashboard.
+
+## What can affect withdrawals
+
+Withdrawal timing may depend on:
+
+* Pack rules.
+* Lock periods.
+* Vault cycles.
+* Liquidity availability.
+* Open allocation routes.
+* Processing windows.
+* Security review.
+* Counterparty settlement.
+* Stablecoin network conditions.
+* Blockchain congestion.
+* Incorrect destination details.
+* Compliance or jurisdiction checks.
 
 ## Withdrawal statuses
 
-### Available
+The dashboard should make withdrawal status clear.
 
-A withdrawal request can be submitted.
+Common statuses may include:
 
-### Pending
+* Requested.
+* Pending review.
+* Processing.
+* Awaiting liquidity cycle.
+* Completed.
+* Delayed.
+* Rejected.
+* Cancelled.
 
-The request has been submitted and is waiting for review or processing.
+If a withdrawal is delayed, users should use official support rather than responding to private messages or unofficial accounts.
 
-### Processing
+## User responsibility
 
-The request is being processed.
+Before requesting a withdrawal, users should verify:
 
-### Completed
+* Destination address.
+* Network.
+* Amount.
+* Wallet ownership.
+* Any memo or tag requirement.
+* Final confirmation screen.
 
-The withdrawal has been sent.
+Crypto transfers can be irreversible. A wrong address or network can lead to permanent loss.
 
-### Restricted
+## Important limit
 
-The withdrawal cannot currently be processed. The reason may include compliance review, incorrect address, risk controls, liquidity window, or other platform rules.
+LiquidX does not guarantee withdrawal speed in every condition.
 
-## Withdrawal windows
-
-Withdrawal processing may depend on:
-
-* Liquidity availability.
-* Internal controls.
-* Compliance checks.
-* Blockchain network congestion.
-* Withdrawal limits.
-* Security review.
-* User verification.
-
-Processing times and limits should always be shown before confirmation.
-
-## Important withdrawal risk notice
-
-Withdrawals are not guaranteed to be instant.
-
-LiquidX aims to process withdrawals according to the terms shown in the platform, but delays may occur.
+Liquidity activity may involve routes, pools, vault cycles, counterparties, market conditions, and security reviews that affect timing.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

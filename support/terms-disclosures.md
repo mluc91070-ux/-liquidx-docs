@@ -1,57 +1,86 @@
-# Terms, Privacy & Disclosures
+# Terms & Disclosures
 
-## Required disclosures
+This page summarizes important product disclosures in plain language.
 
-LiquidX provides access to liquidity-based strategies.
+It is not a full legal agreement, investment advice, tax advice, or financial advice. Users should review the latest terms shown through official LiquidX channels before using the product.
 
-Performance is variable and not guaranteed.
+## No guaranteed returns
 
-Crypto assets carry risk, including the possible loss of capital.
+LiquidX does not guarantee returns.
 
-Past performance is not a reliable indicator of future results.
+Performance is variable. Capital is at risk. Users may lose some or all allocated capital.
 
-Nothing in this documentation is financial advice, investment advice, legal advice, or tax advice.
+Dashboard projections, monthly targets, example figures, referral estimates, and campaign rewards are illustrative unless official terms state otherwise.
 
-Availability may be restricted in some jurisdictions.
+## No financial advice
 
-Members should only allocate capital they can afford to place at risk.
+Nothing in this GitBook, the LiquidX app, community channels, referral messages, or campaign materials should be treated as personal financial advice.
 
-LiquidX will never DM users first asking for funds.
+Users are responsible for deciding whether LiquidX is appropriate for them.
 
-The only official bot is **@LiquidXBot**.
+## Product nature
 
-## No guarantee
+LiquidX is a Telegram-native liquidity access app.
 
-LiquidX does not guarantee:
+Users can deposit USDT, choose a pack, track their dashboard, invite others, and request withdrawals inside Telegram.
 
-* Monthly returns.
-* Future performance.
-* Withdrawal speed in all circumstances.
-* Continued availability in every jurisdiction.
-* Referral income.
-* Tier progression.
-* Capital protection.
+After pack selection, capital may be allocated into internal liquidity routes, pools, or vaults that support selected liquidity activity.
 
-## Jurisdiction
+## Risk disclosure
 
-LiquidX may not be available in all countries.
+LiquidX may involve:
 
-Members are responsible for verifying whether they are allowed to use this type of product in their jurisdiction.
+* Market risk.
+* Liquidity risk.
+* OTC execution risk.
+* Vault strategy risk.
+* Smart contract risk.
+* Counterparty risk.
+* Stablecoin risk.
+* Withdrawal timing risk.
+* Operational risk.
+* Network risk.
+* Jurisdiction risk.
+* Total loss risk.
 
-Nothing in this documentation constitutes a public offer in any jurisdiction where such offer would be restricted, unlawful, or require authorization that has not been obtained.
+Read the [Risk Framework](../trust-and-risk/risk-framework.md) before depositing.
 
-## Privacy
+## Deposits and withdrawals
 
-LiquidX may collect information required for account creation, compliance, identity verification, and platform security.
+Deposits and withdrawals are handled through the official app.
 
-Members should review the current privacy policy inside the official bot for the latest terms.
+Users must verify addresses, networks, amounts, and instructions before sending funds. Crypto transactions can be irreversible.
+
+Withdrawals may depend on pack rules, lock periods, vault cycles, liquidity availability, processing windows, security checks, compliance review, and network conditions.
+
+## Referrals and campaigns
+
+Referral rewards and campaign rewards are not guaranteed.
+
+Rewards may depend on real user behavior, confirmed deposits, pack selection, referral deposit activity, campaign rules, fraud checks, compliance review, and retention.
+
+Fake users, bots, spam, misleading claims, and pressure tactics may lead to disqualification.
+
+## Jurisdiction and availability
+
+LiquidX may not be available in every country or region.
+
+Users are responsible for understanding whether they are allowed to use this type of product where they live. LiquidX may restrict, suspend, or close access where required by law, compliance review, security concerns, or internal policy.
+
+Nothing in this documentation is a public offer where such offer would be restricted, unlawful, or require authorization that has not been obtained.
+
+## Official channels
+
+Only use the official LiquidX bot: **@LiquidXBot**.
+
+LiquidX will never ask for seed phrases, private keys, or personal wallet transfers through private messages.
 
 ## Updates
 
-These disclosures may be updated.
+LiquidX may update product rules, risk notices, availability, packs, referral terms, withdrawal processes, and documentation.
 
-Members should review the latest version through the official LiquidX bot and official channels.
+Users should review the latest information inside the official app and official channels.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

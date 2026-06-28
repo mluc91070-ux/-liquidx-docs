@@ -1,38 +1,55 @@
 # Qualified Invites
 
-A qualified invite is a referral that counts toward tier progression and referral rewards.
+A qualified invite is an invite that brings a real user into LiquidX with a real understanding of the product.
 
-## What makes an invite qualified?
+LiquidX is not trying to reward empty clicks. The referral system is designed around real deposit activity and responsible education.
 
-An invite is qualified only when the invited member completes a real deposit through the official LiquidX bot.
+## What makes an invite qualified
 
-The following do not count as qualified invites:
+An invite may be considered higher quality when the invited user:
 
-* Sharing your referral link.
-* Someone clicking your link.
-* Someone joining the Telegram group.
-* Someone creating an account without depositing.
+* Opens the official LiquidX Telegram app.
+* Understands what LiquidX is.
+* Reads or receives clear risk education.
+* Deposits USDT through official channels.
+* Chooses a pack, if eligible.
+* Tracks the dashboard.
+* Understands that returns are not guaranteed.
+* Stays engaged without being misled or pressured.
 
-Only a confirmed deposit qualifies.
+Program rules may define qualification differently by campaign or region.
 
-## Why qualified invites matter
+## What does not count as quality growth
 
-Qualified invites may:
+LiquidX does not want:
 
-* Unlock higher community tiers such as Captain, Ambassador, and VIP.
-* Generate referral rewards at Layer 1 and Layer 2.
+* Fake users.
+* Duplicate accounts.
+* Bot traffic.
+* Giveaway hunters with no product intent.
+* Spam traffic.
+* Misleading income claims.
+* Users who joined because risk was hidden from them.
 
-## Qualified invite rules
+Quality matters because poor onboarding creates support issues, reputational risk, and user harm.
 
-You must not:
+## How to invite responsibly
 
-* Pressure people to deposit.
-* Present LiquidX as guaranteed income to attract invites.
-* Make false claims about performance to get referrals.
-* Offer personal incentives outside the official referral program.
+Good referrers and Liquidity Captains should:
 
-All activity must follow LiquidX communication rules and local laws.
+* Explain the product in plain language.
+* Share official links only.
+* Encourage users to read the docs.
+* Explain deposits, packs, withdrawals, and risk.
+* Avoid guaranteed-return language.
+* Let users decide without pressure.
+
+## Why qualification matters
+
+Referral rewards are meant to support community-powered growth.
+
+That growth should be based on users who understand LiquidX and choose to allocate knowingly, not users who were pushed by hype or false promises.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral rewards are not guaranteed and depend on real user behavior, deposit activity, and program rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

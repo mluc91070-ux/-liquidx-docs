@@ -1,68 +1,73 @@
 # Quick Start
 
-This guide explains how to start using LiquidX.
+This page explains the basic LiquidX journey from first open to dashboard tracking.
 
-## Step 1 — Open the official Telegram bot
+Read the risk pages before depositing. Do not allocate emergency money or money you cannot afford to lose.
 
-Use only the official LiquidX bot:
+## 1. Open the official Telegram Mini App
 
-**@LiquidXBot**
+Start only from the official LiquidX bot: **@LiquidXBot**.
 
-Any other bot, group, or direct message claiming to represent LiquidX should be treated as suspicious unless confirmed through official LiquidX channels.
+Check the handle carefully. LiquidX will never send you a private message first asking for funds, seed phrases, private keys, or personal wallet transfers.
 
-LiquidX will never message you first asking you to send funds.
+## 2. Deposit USDT
 
-## Step 2 — Create your account
+Inside the app, choose the supported deposit option and send USDT only to the address and network shown in the official interface.
 
-Inside the Telegram bot, follow the onboarding steps.
+Before sending, verify:
 
-You may be asked to provide information required for account security, eligibility, compliance, or platform protection.
+* Network.
+* Address.
+* Amount.
+* Wallet source.
+* Any displayed instructions.
 
-## Step 3 — Choose your tier
+Deposits may require network confirmations and internal security checks before the dashboard updates.
 
-LiquidX offers several allocation tiers.
+## 3. Choose a pack
 
-Each tier has:
+After funding, choose a liquidity pack.
 
-* A minimum allocation amount.
-* A reference monthly rate.
-* Access level.
-* Community benefits.
-* Risk profile.
+Packs are simple allocation tiers. They are not guaranteed-return products. The available packs are:
 
-The reference monthly rate is variable and not guaranteed.
+* $25 Starter Pack.
+* $50 Builder Pack.
+* $100 Growth Pack.
+* $300 Operator Pack.
+* $500 Prime Pack.
+* $1,000 Elite Pack.
 
-## Step 4 — Deposit USDT
+## 4. Allocation starts
 
-Deposit USDT only through the official deposit flow shown in the LiquidX Telegram bot.
+After pack selection, capital may enter internal liquidity routes, managed pools, or vaults.
 
-Before depositing, always verify:
+These structures can support liquidity activity such as OTC flow, crypto market liquidity, stablecoin movement, market-making activity, commodities-related liquidity needs, and internal liquidity balancing.
 
-* The network.
-* The wallet address.
-* The amount.
-* The official bot handle.
-* The risk notice.
+## 5. Track your dashboard
 
-Sending funds to the wrong network or address may result in permanent loss.
+The dashboard should help users track:
 
-## Step 5 — Track your dashboard
+* Deposits and selected pack.
+* Current allocation status.
+* Balance and projected performance.
+* Activity history.
+* Referral rewards.
+* Withdrawal status.
 
-After your deposit is confirmed, your dashboard will show:
+Projections are for transparency. They are not promises.
 
-* Total allocated.
-* Active tier.
-* Allocation status.
-* Performance updates.
-* Withdrawal options.
-* Risk notes.
+## 6. Request withdrawals
 
-## Step 6 — Request withdrawal
+Users can request withdrawals inside the app.
 
-Withdrawals are requested through the official bot.
+Withdrawals may depend on pack rules, lock periods, vault cycles, liquidity availability, processing windows, security checks, and network conditions.
 
-Processing windows, limits, fees, or other conditions are shown before confirmation.
+## 7. Invite real users
+
+Every user can invite others through referral.
+
+Referral rewards are based on real deposit activity, not fake accounts, bots, or giveaway traffic. Good referrers educate users before they allocate.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

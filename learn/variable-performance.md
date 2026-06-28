@@ -2,34 +2,55 @@
 
 Variable performance means results change over time.
 
-LiquidX does not offer fixed returns.
+LiquidX does not offer fixed returns, fixed yield, guaranteed monthly profit, or risk-free income.
 
 ## Why performance changes
 
 Performance may change because of:
 
-* Market volatility.
-* Volume changes.
 * Liquidity demand.
-* Strategy conditions.
+* OTC flow.
+* Market volatility.
+* Spread conditions.
+* Vault performance.
+* Route capacity.
 * Counterparty quality.
 * Execution costs.
-* Risk limits.
+* Security reviews.
 * Stablecoin conditions.
+* Network congestion.
 * Regulatory events.
+* Risk limits.
 
-## What members should understand
+## What projections mean
 
-A previous monthly average is not a guarantee.
+Dashboard projections and monthly targets are reference figures.
 
-The next month may be lower.
+They may help users understand current assumptions, but they are not promises. The next period may be lower than the previous period. A projected figure may not be reached.
 
-The next month may be negative.
+Performance may be zero or negative.
+
+## Why risk controls can reduce performance
+
+Sometimes the best decision is to reduce activity.
+
+If market conditions become unstable, counterparties become unreliable, liquidity disappears, or operational risk increases, LiquidX may limit routes, slow allocation, delay certain actions, or apply additional checks.
+
+That may reduce short-term performance, but it can be part of responsible risk management.
+
+## What users should do
+
+Users should:
+
+* Read the risk pages.
+* Start with an amount they can afford to risk.
+* Track dashboard status.
+* Avoid private promises from referrers.
+* Understand withdrawal rules before depositing.
+* Never treat projections as guaranteed income.
 
 Capital may be lost.
 
-Only allocate what you can afford to risk.
-
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

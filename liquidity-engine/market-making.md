@@ -7,42 +7,59 @@ A market maker may quote both sides of a market:
 * A buy price.
 * A sell price.
 
-The difference between these prices is called the spread.
-
-## How market makers can earn
-
-Market makers may earn from:
-
-* Spread capture.
-* Volume.
-* Fee structures.
-* Liquidity incentives.
-* Execution efficiency.
+The difference between those prices is called the spread.
 
 ## Why market making matters
 
-Market making helps markets:
+Markets need liquidity to work well.
 
-* Execute trades faster.
+When liquidity is thin, users may experience poor pricing, high slippage, slow execution, and sharp price movement from relatively small trades.
+
+Market-making activity can help:
+
+* Support deeper order books.
 * Reduce slippage.
-* Support larger transactions.
-* Improve pricing.
-* Attract serious participants.
+* Improve execution speed.
+* Absorb buy and sell demand.
+* Make markets more usable for larger participants.
 
-## Why it is risky
+## How performance may be generated
+
+Market-making activity may generate performance through:
+
+* Spread capture.
+* Volume-based fees.
+* Liquidity incentives.
+* Execution efficiency.
+* Cross-venue balancing.
+* Demand for available capital.
+
+These sources are variable. They can shrink or disappear when market conditions change.
+
+## How LiquidX may relate to market making
+
+LiquidX may allocate capital into routes, pools, or vaults that support market liquidity or market-making activity.
+
+Users do not manually make markets. They track their allocation through the dashboard while LiquidX manages the product's internal process.
+
+## Market-making risks
 
 Market making is not risk-free.
 
 Risks include:
 
-* Price moving sharply.
+* Sharp price movement.
 * Inventory imbalance.
+* Low volume.
 * Exchange outages.
 * Poor execution.
-* Liquidation.
+* Liquidation risk.
 * Strategy failure.
 * Market stress.
+* Counterparty or venue failure.
+
+Market making can generate fees in some conditions and losses in others.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

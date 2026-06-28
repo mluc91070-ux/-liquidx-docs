@@ -1,37 +1,51 @@
 # Fee-Based Liquidity
 
-Some operators need fast access to liquidity.
+Some market participants pay for access to liquidity.
 
-LiquidX may participate in liquidity routing, access, or execution opportunities where fees are paid for liquidity availability or routing.
+That demand may appear when capital is needed quickly, size is difficult to source, settlement timing matters, or a route requires available funds.
 
-## How it works
+## What fee-based liquidity means
 
-When liquidity demand is high and supply is constrained, operators may pay a fee to access the liquidity they need.
+Fee-based liquidity means compensation may come from providing, routing, or making liquidity available rather than from simply betting on price direction.
 
-LiquidX may act as a liquidity provider in these situations, earning fees for:
+Fees may be connected to:
 
-* Availability of capital.
-* Speed of routing.
+* Capital availability.
+* Routing speed.
 * Execution access.
 * Settlement facilitation.
+* Stablecoin movement.
+* OTC-related liquidity demand.
+* Internal liquidity balancing.
 
-## Why this matters
+## How LiquidX may participate
 
-Fee-based liquidity can generate revenue independent of directional market moves.
+LiquidX may allocate capital into routes, pools, or vaults where liquidity demand creates an opportunity to earn fees or eligible performance.
 
-It is tied to demand for liquidity access, not to whether a market goes up or down.
+This can be useful because some liquidity opportunities are tied to market activity and demand for capital rather than only to whether an asset price rises.
 
-## Risks
+## Why performance still varies
 
-Fee-based liquidity operations may involve:
+Fee-based liquidity is not guaranteed.
 
-* Operational risk.
-* Counterparty risk.
-* Failed execution.
-* Delayed settlement.
-* Counterparty dispute.
+Performance can change because of:
+
+* Lower liquidity demand.
+* Poor execution.
+* Failed settlement.
+* Counterparty disputes.
+* Market stress.
+* Security review.
 * Liquidity window mismatch.
+* Operational errors.
+* Costs and fees.
+
+## What users should understand
+
+Fee-based liquidity can sound simple, but the underlying operations can be complex.
+
+Users should treat every allocation as capital at risk, even when the strategy is not based on directional trading.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

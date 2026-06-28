@@ -1,34 +1,42 @@
 # Contact
 
-For all support requests, use the official LiquidX Telegram bot:
+Use official LiquidX channels only.
+
+For account questions, deposit questions, withdrawal questions, referral questions, or security concerns, start from the official bot:
 
 **@LiquidXBot**
 
-## What support can help with
+## Before contacting support
 
-* Account questions.
-* Deposit confirmation.
-* Withdrawal status.
-* Tier eligibility.
-* Referral rewards.
-* Reporting impersonators or suspicious activity.
-* Technical issues inside the bot.
+Collect the relevant details:
 
-## Response times
+* Telegram username or account identifier requested by the app.
+* Deposit transaction hash.
+* Deposit network.
+* Deposit amount.
+* Pack selected.
+* Withdrawal request details.
+* Referral link or invited user details, if relevant.
+* Screenshots of dashboard status, if requested.
 
-Support response times may vary depending on volume, time zone, and request type.
+Do not share seed phrases, private keys, wallet passwords, or exchange passwords.
 
-## Important
+## Security issues
 
-LiquidX support will never:
+If you suspect phishing, impersonation, fake support, or a cloned bot:
 
-* Ask for your seed phrase or private key.
-* Ask you to send funds outside the official bot.
-* Contact you first via DM asking for money.
-* Promise guaranteed returns.
+* Do not send funds.
+* Do not click unknown links.
+* Do not share personal information.
+* Report the account to Telegram.
+* Contact LiquidX through the official bot.
 
-If someone claiming to be LiquidX support contacts you asking for any of the above, do not respond and report immediately through **@LiquidXBot**.
+## What support cannot do
+
+Support cannot guarantee returns, bypass product rules, promise instant withdrawals in every condition, recover funds sent to an incorrect address, or approve use in a restricted jurisdiction.
+
+Support should help users understand status, process, and next steps through official channels.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

@@ -1,51 +1,79 @@
 # Risk Framework
 
-LiquidX risk is grouped into several categories.
+LiquidX is an allocation product with real risk.
+
+The platform does not guarantee returns. Performance is variable. Capital is at risk.
 
 ## Market risk
 
-Markets can move against the desk.
+Markets can move quickly and unpredictably.
 
-Volatility can reduce or eliminate performance.
+Price volatility, spread changes, low volume, or sudden stress can reduce or eliminate performance. Market conditions can also create losses.
 
 ## Liquidity risk
 
-Liquidity may not always be available at expected prices or timing.
+Liquidity may not always be available at the expected price, size, or timing.
+
+If capital is deployed into a route, pool, or vault, withdrawal timing may depend on when liquidity becomes available again.
+
+## OTC execution risk
+
+OTC transactions can involve large size, private counterparties, negotiated pricing, and settlement timing.
+
+Risks include failed settlement, delayed settlement, pricing disputes, counterparty default, and execution slippage.
+
+## Vault strategy risk
+
+Vaults may route capital into selected strategies or liquidity activities.
+
+A vault can underperform, pause, face capacity limits, generate losses, or require additional time before funds can be withdrawn.
+
+## Smart contract risk
+
+If any route uses smart contracts or on-chain infrastructure, bugs, exploits, oracle issues, bridge failures, or permission errors may cause loss.
+
+Smart contract risk can exist even when a protocol has been reviewed.
 
 ## Counterparty risk
 
-A counterparty may fail to settle, delay payment, dispute execution, or default.
+A counterparty may fail to settle, delay payment, dispute execution, become insolvent, lose access to funds, or fail operational checks.
+
+Counterparty risk may apply to desks, venues, wallet providers, service providers, issuers, and other market participants.
 
 ## Stablecoin risk
 
-USDT carries issuer, depeg, regulatory, chain, and liquidity risks.
+USDT carries stablecoin-specific risk.
+
+Risks may include depeg events, issuer risk, regulatory action, liquidity shortages, network issues, blacklist or freeze events, and exchange withdrawal delays.
+
+## Withdrawal timing risk
+
+Withdrawals may take longer than expected.
+
+Timing may depend on pack rules, lock periods, vault cycles, liquidity availability, processing windows, security checks, compliance review, and blockchain conditions.
 
 ## Operational risk
 
-Systems, people, exchanges, wallets, or processes can fail.
+Systems, people, wallets, policies, processes, APIs, exchanges, and internal controls can fail.
 
-## Strategy risk
+Operational failures may delay deposits, affect allocation, reduce performance, or delay withdrawals.
 
-A strategy that performed well in one period may perform poorly in another.
+## Network risk
 
-## Withdrawal risk
+Telegram, blockchains, wallets, exchanges, APIs, infrastructure providers, and internet services may experience downtime, congestion, censorship, exploits, or outages.
 
-Withdrawals may be delayed or restricted under certain conditions.
+## Regulatory and jurisdiction risk
 
-## Regulatory risk
+Access may be restricted in some jurisdictions.
 
-Laws and restrictions may change.
-
-Access may be limited depending on jurisdiction.
-
-## Technology risk
-
-Telegram, wallets, blockchains, exchanges, APIs, or infrastructure may experience downtime, exploits, or failures.
+Rules can change, and LiquidX may refuse, suspend, restrict, or close access where required by law, compliance review, or internal policy.
 
 ## Total loss risk
 
-Members may lose some or all of their allocated capital.
+Users may lose some or all allocated capital.
+
+No page in this GitBook should be read as a guarantee, offer of fixed yield, or promise that losses cannot occur.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

@@ -2,21 +2,40 @@
 
 LiquidX may not be available everywhere.
 
-Access may be restricted based on:
+Access can depend on local law, sanctions rules, age requirements, compliance checks, internal risk policy, product availability, and operational capacity.
 
-* Country of residence.
-* Local virtual asset rules.
-* Sanctions restrictions.
+## User responsibility
+
+Users are responsible for understanding whether they are allowed to use this type of product in their country or region.
+
+If your jurisdiction does not allow access to this type of product, do not use LiquidX.
+
+## Access restrictions
+
+LiquidX may refuse, restrict, suspend, or close access where required by:
+
+* Local law.
+* Sanctions requirements.
+* Compliance review.
 * Age restrictions.
-* Compliance requirements.
 * Internal risk policy.
+* Security concerns.
+* Product limitations.
 
-LiquidX may refuse, restrict, suspend, or close access where required by law or internal policy.
+Restrictions may apply before deposit, after account review, during withdrawal review, or when rules change.
 
-Members are responsible for understanding whether they are allowed to use LiquidX in their jurisdiction.
+## No public offer where restricted
 
 Nothing in this documentation is a public offer in any jurisdiction where such offer would be restricted, unlawful, or require authorization that has not been obtained.
 
+This GitBook is educational documentation for understanding the product. It is not legal, tax, investment, or financial advice.
+
+## Rules may change
+
+Virtual asset rules can change quickly.
+
+LiquidX may update eligibility, access, product terms, pack availability, or withdrawal processes in response to regulatory, compliance, or operational requirements.
+
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

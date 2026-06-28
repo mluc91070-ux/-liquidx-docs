@@ -1,59 +1,56 @@
 # Key Risk Notice
 
-Before using LiquidX, read this page carefully.
+Read this page before using LiquidX.
 
-LiquidX involves risk.
+LiquidX is an allocation product. It is not a bank account, savings account, guaranteed yield product, or risk-free investment.
 
-You should not allocate capital unless you understand that performance is variable and capital may be lost.
+## The three core truths
 
-## Main risks
+LiquidX does not guarantee returns.
 
-### 1. Market risk
+Performance is variable.
 
-Liquidity strategies operate in live markets. Markets can move sharply and unpredictably.
+Capital is at risk.
 
-### 2. Liquidity risk
+These statements apply to every pack, pool, vault, dashboard projection, referral reward, and monthly target shown by the platform.
 
-There may be times when liquidity is reduced, delayed, or more expensive to access.
+## What can go wrong
 
-### 3. Counterparty risk
+LiquidX may be exposed to several types of risk:
 
-OTC and liquidity operations may involve third parties. A counterparty failure, delay, dispute, or default can affect performance.
+* Market risk: prices, spreads, and volatility may move against liquidity activity.
+* Liquidity risk: capital may not be available at expected timing or prices.
+* OTC execution risk: large or private transactions may fail, delay, settle poorly, or be disputed.
+* Vault strategy risk: a vault route may perform worse than expected.
+* Smart contract risk: on-chain systems may contain bugs or be exploited.
+* Counterparty risk: a desk, venue, wallet provider, bank, issuer, or other participant may fail to perform.
+* Stablecoin risk: USDT may face depeg, issuer, regulatory, liquidity, or network risk.
+* Withdrawal timing risk: withdrawals may take longer than expected.
+* Operational risk: systems, people, processes, or security controls may fail.
+* Network risk: Telegram, wallets, blockchains, exchanges, APIs, or infrastructure may be unavailable.
 
-### 4. Stablecoin risk
+## Dashboard projections are not promises
 
-LiquidX uses USDT. Stablecoins can carry risks including depeg risk, issuer risk, blockchain risk, and regulatory risk.
+Dashboard projections and monthly targets are designed to help users understand possible performance ranges. They are not fixed returns.
 
-### 5. Operational risk
+Actual performance depends on liquidity demand, OTC flow, market activity, vault performance, execution quality, fees, costs, risk limits, and broader market conditions.
 
-Human error, system downtime, exchange restrictions, wallet issues, routing errors, or internal process failures can affect operations.
+Performance can be lower than projected. It can also be negative.
 
-### 6. Withdrawal risk
+## Only allocate risk capital
 
-Withdrawals may be subject to processing windows, liquidity availability, compliance checks, network congestion, or limits displayed in the platform.
+Do not deposit money needed for rent, food, debt repayment, school fees, medical expenses, business obligations, or emergency reserves.
 
-### 7. Regulatory risk
+If losing the allocated capital would damage your life or financial stability, do not allocate it.
 
-Availability may be restricted in certain jurisdictions. Rules for crypto assets and virtual asset services may change.
+## Use official channels only
 
-### 8. Loss of capital
+Only use the official LiquidX bot: **@LiquidXBot**.
 
-You may lose some or all of your allocated capital.
+Do not trust private messages, lookalike bots, fake support accounts, cloned websites, or claims of guaranteed profit.
 
-## No guarantee
-
-LiquidX does not guarantee:
-
-* Monthly returns.
-* Future performance.
-* Withdrawal speed in all circumstances.
-* Continued availability in every jurisdiction.
-* Referral income.
-* Tier progression.
-* Capital protection.
-
-Only allocate what you can afford to place at risk.
+For a deeper breakdown, read the [Risk Framework](../trust-and-risk/risk-framework.md).
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

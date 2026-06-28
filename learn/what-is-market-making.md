@@ -2,37 +2,54 @@
 
 Market making means providing buy and sell liquidity to a market.
 
-A market maker may quote both sides of a market:
+A market maker may quote a price where it is willing to buy and a price where it is willing to sell.
 
-* A buy price.
-* A sell price.
+The difference between those prices is called the spread.
 
-The difference between these prices is called the spread.
+## Simple example
 
-## How market makers can earn
+If a market maker quotes:
 
-Market makers may earn from:
+* Buy at $99.90.
+* Sell at $100.10.
 
-* Spread capture.
-* Volume.
-* Fee structures.
-* Liquidity incentives.
-* Execution efficiency.
+The $0.20 difference is the spread.
 
-## Why it is risky
+In active markets, market makers may earn from many small spreads or fees. In difficult markets, they can lose money quickly.
 
-Market making is not risk-free.
+## Why market makers matter
+
+Market makers help markets function by:
+
+* Adding depth to order books.
+* Reducing slippage.
+* Supporting faster execution.
+* Helping buyers and sellers find prices.
+* Providing liquidity when demand is uneven.
+
+## Why it is difficult
+
+Market making requires risk management.
 
 Risks include:
 
-* Price moving sharply.
+* Sharp price moves.
 * Inventory imbalance.
-* Exchange outages.
+* Low volume.
 * Poor execution.
+* Exchange outages.
 * Liquidation.
 * Strategy failure.
 * Market stress.
 
+## How LiquidX users should think about it
+
+Users do not manually make markets inside LiquidX.
+
+LiquidX may allocate capital into internal routes, pools, or vaults that support market liquidity or market-making activity. If that activity generates eligible fees or performance, the dashboard may reflect it.
+
+Performance can also be lower than expected or negative.
+
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

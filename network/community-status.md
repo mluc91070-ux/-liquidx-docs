@@ -1,48 +1,50 @@
 # Community Status
 
-LiquidX includes community status levels.
+Community status helps LiquidX recognize users who contribute real value to the network.
 
-Status is designed to reward education, responsible growth, and leadership.
+Status should be based on quality, education, and real activity rather than noise.
 
-It is not designed to encourage pressure selling.
+## What status may reflect
 
-## Silver
+Community status may consider:
 
-Silver members gain access to a private community channel.
+* Real invited users.
+* Confirmed referral deposits.
+* Pack selection by referred users.
+* Retention.
+* Product education.
+* Responsible messaging.
+* Community support quality.
+* Campaign participation.
+* Fraud and spam checks.
 
-## Diamond
+Status should not be based only on follower count or empty signups.
 
-Diamond members may receive weekly desk notes and access to a Diamond lounge.
+## Why status matters
 
-## Captain
+LiquidX depends on trust.
 
-Captain members may lead local community groups with a co-marketing kit.
+Users are more likely to stay engaged when referrers explain the product clearly, set expectations, and avoid hype. Community status can help highlight contributors who grow the network responsibly.
 
-Captain activity must be education-first and compliant with LiquidX communication rules.
+## What can reduce status
 
-## Ambassador
+Status may be reduced or removed for:
 
-Ambassadors may host official LiquidX events in their country, subject to approval.
+* Misleading return claims.
+* Spam.
+* Fake users.
+* Bot traffic.
+* Impersonation.
+* Hiding risk information.
+* Encouraging users to bypass official channels.
+* Pressuring users to deposit money they cannot afford to lose.
 
-Events must follow local laws, platform rules, and risk disclosure requirements.
+## Status is not a guarantee
 
-## VIP
+Community status does not guarantee referral rewards, campaign rewards, withdrawal priority, product availability, or future benefits.
 
-VIP members may receive a direct desk line and custom allocation review.
-
-## Community rules
-
-All community leaders must:
-
-* Share official materials only.
-* Include risk warnings.
-* Avoid guaranteed return language.
-* Avoid pressure tactics.
-* Avoid misleading screenshots.
-* Respect local laws.
-* Never collect funds personally.
-* Direct users only to the official LiquidX bot.
+It is a recognition mechanism that may change according to program rules.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral and community rewards are not guaranteed and depend on real user behavior, deposit activity, campaign terms, and risk controls. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

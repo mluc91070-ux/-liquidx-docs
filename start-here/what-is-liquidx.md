@@ -1,45 +1,53 @@
-# What LiquidX Is
+# What Is LiquidX?
 
-LiquidX is a liquidity access layer.
+LiquidX is a Telegram-native liquidity access layer.
 
-It connects members to real liquidity operations managed by a desk. Members allocate USDT, and the desk routes capital across selected liquidity opportunities.
+It gives eligible retail users a simple way to allocate USDT into liquidity-based activity that is usually handled by more advanced market participants, desks, market makers, OTC operators, and capital allocators.
 
-LiquidX is designed to make the process simple from the user side while keeping the product transparent about risk, methodology, and withdrawals.
+Users do not need to trade manually. They do not need to study order books all day. They do not need to guess market direction or run complex strategies.
 
-## LiquidX in one sentence
+Instead, users deposit USDT, choose a pack, and track their allocation through the LiquidX dashboard.
 
-LiquidX lets members allocate USDT into live liquidity strategies, track performance transparently, and withdraw according to the platform's withdrawal process.
+## The simple version
 
-## Built for Telegram
+LiquidX helps users move from casino-style speculation to structured allocation.
 
-LiquidX is designed around Telegram because Telegram is where crypto communities already live.
+The platform is built around:
 
-The LiquidX experience is built to be simple:
+* Simple access from $25.
+* Telegram-native onboarding.
+* USDT deposits.
+* Liquidity packs.
+* Managed allocation routes, pools, or vaults.
+* Transparent dashboard tracking.
+* Referral-based community growth.
+* Clear risk education.
 
-1. Open the official LiquidX bot.
-2. Choose a tier.
-3. Deposit USDT.
-4. Track your allocation.
-5. Request withdrawal when needed.
+## What liquidity access means
 
-## Built on USDT
+Markets need liquidity to function. Buyers need sellers, sellers need buyers, and large transactions often need deeper capital than public order books can comfortably absorb.
 
-LiquidX uses USDT because it is widely used across crypto markets, OTC flows, and exchange liquidity operations.
+LiquidX may allocate capital into liquidity activity connected to OTC flow, crypto market liquidity, stablecoin movement, market depth, commodities-related market activity, or internal vault-based strategies.
 
-Members deposit and withdraw in USDT unless otherwise stated in the app.
+If those activities generate fees or eligible performance, users may see results reflected in their dashboard. Results can also be lower than expected, delayed, or negative.
 
-## Built around transparency
+## Why Telegram?
 
-LiquidX aims to show members:
+Telegram is already where many crypto users discover communities, products, bots, and market updates.
 
-* How much they allocated.
-* Which tier is active.
-* What the latest monthly reference rate is.
-* Where performance may come from.
-* What risks apply.
-* When withdrawals can be requested.
-* Which bot and channels are official.
+LiquidX uses Telegram to reduce friction:
+
+* The app opens inside Telegram.
+* Deposits and dashboard tracking are centralized in one flow.
+* Referrals are easy to share.
+* Users can access updates without learning a complex trading platform.
+
+## What LiquidX is not
+
+LiquidX is not a crypto casino, trading signal group, gambling product, or guaranteed monthly profit plan.
+
+It is an allocation product with risk. Performance is variable. Capital is at risk. Users should read the [Key Risk Notice](key-risk-notice.md) before depositing.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

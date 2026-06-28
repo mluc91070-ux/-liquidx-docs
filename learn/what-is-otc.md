@@ -2,40 +2,50 @@
 
 OTC means over-the-counter.
 
-An OTC trade happens directly between parties instead of through a public exchange order book.
+An OTC transaction happens directly between parties instead of through a public exchange order book.
 
 ## Why OTC exists
 
-Large traders may use OTC because:
+Large-volume transactions often happen outside public order books because public markets may not have enough visible liquidity at the desired price.
 
-* They need size.
-* They want reduced market impact.
-* They need direct settlement.
-* They want customized execution.
-* They need access to specific liquidity.
+Using OTC can help large participants:
 
-## How liquidity desks participate
+* Access larger size.
+* Reduce visible market impact.
+* Negotiate execution terms.
+* Coordinate settlement.
+* Move stablecoins or crypto balances more efficiently.
+* Avoid exposing the entire order to the market.
 
-A liquidity desk may help:
+## What an OTC desk does
 
-* Source buyers.
-* Source sellers.
-* Quote prices.
-* Route capital.
-* Manage settlement.
-* Capture spread or fees.
+An OTC desk may help source buyers, source sellers, quote prices, route capital, coordinate settlement, and manage execution risk.
+
+The desk may earn from spreads, fees, or other compensation linked to the liquidity service it provides.
+
+## How LiquidX relates to OTC
+
+LiquidX may support selected OTC-related liquidity flow when liquidity demand, counterparties, market conditions, and internal risk controls allow.
+
+In those situations, capital may help support large or specialized liquidity needs, and performance may come from fees or spreads tied to the demand for liquidity.
+
+This is not guaranteed. OTC flow can be inconsistent, competitive, delayed, or risky.
 
 ## OTC risks
 
-OTC operations may involve:
+OTC activity may involve:
 
 * Counterparty risk.
 * Settlement risk.
 * Pricing risk.
+* Execution risk.
 * Compliance risk.
 * Timing risk.
 * Dispute risk.
+* Liquidity mismatch.
+
+OTC can be useful, but it is not risk-free and does not guarantee profit.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

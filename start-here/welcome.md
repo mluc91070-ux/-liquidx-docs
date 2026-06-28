@@ -5,44 +5,56 @@ coverY: 0
 
 # Welcome to LiquidX
 
-LiquidX is a Telegram-native liquidity access platform built on USDT.
+LiquidX is built around one idea: **Liquidity for Everyone**.
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 04_48_53 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 04_48_53 AM.png" alt=""><figcaption></figcaption></figure>
 
 It gives members a simple way to allocate capital into liquidity-based strategies operated by a real desk. The goal is to make market liquidity easier to access, easier to track, and easier to understand.
 
-LiquidX is not a casino, not a fixed-yield product, and not a guaranteed return platform.
+Most retail users only see the visible side of crypto markets. They buy, sell, trade, chase signals, or wait for price moves. Behind those markets is another layer: liquidity, execution, routing, OTC flow, market depth, pools, and vault-based allocation.
 
-Performance is variable. Capital is at risk. You should only allocate capital you can afford to place at risk.
+LiquidX makes that layer easier to understand and easier to access through Telegram.
 
-## Core idea
+## What LiquidX does
+
+LiquidX lets eligible users deposit USDT, choose a liquidity pack, and allow that capital to be allocated through internal liquidity routes, managed pools, or vault structures.
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 03_07_41 AM.png" alt=""><figcaption></figcaption></figure>
 
-Most people see crypto through hype, price charts, and speculation.
+The platform may use those allocations to support liquidity activity such as:
 
-LiquidX is built around a different idea: liquidity.
+* OTC-related liquidity demand.
+* Crypto market liquidity.
+* Stablecoin flows.
+* Market-making activity.
+* Commodities-related liquidity needs.
+* Internal liquidity balancing.
 
-Markets need liquidity to operate. OTC desks, market makers, brokers, high-volume traders, and liquidity operators all need capital flow, routing, execution, and inventory. LiquidX gives members structured access to that liquidity activity through USDT allocations.
+When liquidity activity generates fees, spread, or other eligible performance, the dashboard can reflect user balances, projected performance, activity, and referral rewards.
 
-## What members can do
+## What makes it different
 
-With LiquidX, members can:
+LiquidX is Telegram-native. Users do not need to install a trading terminal, manage exchange accounts, place orders, or manually trade markets.
 
-* Deposit USDT through the official Telegram app.
-* Choose an allocation tier.
-* Track their active allocation.
-* View performance updates.
-* Request withdrawals.
-* Earn referral rewards when qualified members join through their link.
-* Learn how liquidity operations work.
+The experience is designed to be simple:
 
-## Important risk notice
+1. Open the Telegram Mini App.
+2. Deposit USDT.
+3. Choose a pack.
+4. Track your dashboard.
+5. Request withdrawals according to product rules.
+6. Invite real users through the referral system.
 
-LiquidX provides access to liquidity-based strategies. Performance is variable and not guaranteed.
+## What to remember
 
-Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing in this documentation is financial advice.
+LiquidX is not a guaranteed-income product. It is not risk-free. It does not remove market, liquidity, counterparty, operational, stablecoin, or withdrawal timing risk.
+
+The goal of this GitBook is to help users, KOLs, partners, and community builders understand the product before allocating capital.
+
+Start with [What LiquidX Is](what-is-liquidx.md), then read [How LiquidX Works](../product/how-it-works.md) and the [Risk Framework](../trust-and-risk/risk-framework.md).
 
 ***
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

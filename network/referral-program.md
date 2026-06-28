@@ -1,63 +1,78 @@
 # Referral Program
 
-LiquidX includes a referral program.
+LiquidX grows through community-powered education.
 
-The referral system rewards members who introduce qualified members to LiquidX.
+Every user can invite others, but referral rewards are based on real deposit activity, not fake users, bots, empty signups, spam, or giveaway traffic.
+
+## How referrals work
+
+The basic referral flow is:
+
+1. A user opens the official LiquidX Telegram app.
+2. The user receives or shares a referral link.
+3. An invited user joins through that link.
+4. The invited user learns about LiquidX, risk, deposits, packs, withdrawals, and dashboard tracking.
+5. The invited user deposits USDT and chooses a pack, if eligible.
+6. Referral rewards may be calculated from real deposit activity according to current program rules.
+
+Referral terms may change by campaign, region, pack, user status, or internal policy.
+
+## What counts as quality growth
+
+LiquidX values users who understand what they are joining.
+
+Good referral growth means:
+
+* Real people.
+* Real interest.
+* Real deposits.
+* Clear risk education.
+* Healthy retention.
+* No misleading promises.
+* No pressure tactics.
+
+The goal is not to create noise. The goal is to build a community that understands liquidity allocation.
+
+## What referrers should explain
+
+A responsible referrer should help users understand:
+
+* LiquidX is a Telegram-native liquidity access app.
+* Users deposit USDT and choose packs.
+* Capital may enter routes, pools, or vaults.
+* Performance is variable.
+* Capital is at risk.
+* No return is guaranteed.
+* Withdrawals may depend on product rules and liquidity conditions.
+* Users should only use the official bot: **@LiquidXBot**.
+
+## What is not allowed
+
+Referrers should not:
+
+* Promise guaranteed returns.
+* Claim fixed monthly profit.
+* Say there is no risk.
+* Use fake screenshots or fake earnings claims.
+* Create fake users.
+* Use bots.
+* Spam groups.
+* Target giveaway hunters.
+* Pressure users to deposit money they cannot afford to lose.
+* Impersonate LiquidX support.
 
 ## Referral rewards
 
-LiquidX currently uses two referral layers:
+Referral rewards may be shown in the dashboard.
 
-### Layer 1 — Direct referral
+Rewards may depend on invited users, pack selection, confirmed deposits, referral deposit volume, campaign rules, retention, fraud checks, and compliance review.
 
-Members may earn **10%** of a direct referral's first deposit.
+Referral income is not guaranteed.
 
-### Layer 2 — Network referral
+## Related pages
 
-Members may earn **3%** of second-level referral deposits.
-
-## What counts as a referral?
-
-A referral counts only when the invited person deposits.
-
-Sharing a link alone does not count.
-
-Joining a group alone does not count.
-
-Creating an account alone does not count.
-
-Only a qualified deposit counts.
-
-## How rewards are paid
-
-Referral rewards are paid in USDT by LiquidX according to the referral terms.
-
-Rewards may be subject to limits, review, abuse prevention, jurisdiction restrictions, and compliance checks.
-
-## Important referral rules
-
-You must not present LiquidX as:
-
-* Guaranteed income.
-* Risk-free passive income.
-* A fixed salary.
-* A financial rescue plan.
-* An investment with guaranteed returns.
-
-You must not pressure people to deposit.
-
-You must not make claims that are not in official LiquidX documentation.
-
-You must not impersonate LiquidX.
-
-## Referral and tier status
-
-Qualified invites may also help unlock higher community tiers such as Captain, Ambassador, and VIP.
-
-A qualified invite counts only when the invited member deposits.
-
-Large allocators may request manual review.
+Read [Qualified Invites](qualified-invites.md) and [Liquidity Captains](liquidity-captains.md) for more detail on high-quality growth.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral rewards are not guaranteed and depend on real user behavior, deposit activity, and program rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

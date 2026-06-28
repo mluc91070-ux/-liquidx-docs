@@ -1,61 +1,65 @@
 # Dashboard
 
-The LiquidX dashboard is designed to make allocations easy to understand.
+The LiquidX dashboard is the user's main tracking surface.
 
-## What the dashboard shows
+It is designed to show what the user has deposited, which pack is active, how allocation is progressing, what projections are visible, and whether referral or withdrawal activity is pending.
 
-### Total allocated
+## Core dashboard items
 
-The amount of USDT currently allocated.
+The dashboard should help users track:
 
-### Active tier
+* Account status.
+* Deposit history.
+* Selected pack.
+* Allocation status.
+* Current balance.
+* Projected performance.
+* Activity or fee updates.
+* Referral rewards.
+* Withdrawal requests.
+* Security or risk notices.
 
-The tier linked to your current allocation.
+## Projections
 
-### Performance update
+Projected performance is shown for transparency.
 
-The latest dashboard view of performance based on platform methodology.
+It helps users understand possible outcomes based on current assumptions, pack rules, liquidity demand, OTC flow, market activity, vault performance, and risk conditions.
 
-### Allocation mix
+Projection does not mean promise. Actual performance may be lower, delayed, or negative.
 
-A simplified view of where capital is allocated across liquidity categories.
+## Activity tracking
 
-Example categories:
+Activity tracking may show how a user's allocation is being handled at a high level.
 
-* OTC volume operations.
-* Market making.
-* Fee-based liquidity.
-* Commodities-linked liquidity.
+Depending on product design, activity may relate to liquidity routes, pools, vaults, OTC-related flow, market-making operations, stablecoin movement, or internal balancing.
 
-### Withdrawal status
+LiquidX should avoid presenting activity in a way that suggests guaranteed yield or certainty.
 
-The dashboard shows whether withdrawals are available, pending, processing, completed, or restricted.
+## Referral tracking
 
-### Risk notes
+The dashboard may show referral activity such as:
 
-Risk notes are displayed directly inside the dashboard.
+* Invited users.
+* Qualified users.
+* Referral deposits.
+* Pending rewards.
+* Paid rewards.
+* Campaign or captain status.
 
-LiquidX does not hide risk in fine print.
+Referral rewards depend on real user behavior and real deposit activity.
 
-## Example dashboard
+## Withdrawal tracking
 
-Total allocated: **$1,250 USDT**
+The dashboard should show withdrawal status clearly, including whether a request is pending, processing, completed, rejected, delayed, or awaiting additional checks.
 
-Active tier: **Gold**
+Withdrawals may depend on pack rules, lock periods, vault cycles, liquidity availability, processing windows, security review, and network conditions.
 
-Status: **Active**
+## Why transparency matters
 
-Allocation mix:
+LiquidX is education-first. A good dashboard should reduce confusion, not create hype.
 
-* OTC volume operations: 42%
-* Market making: 31%
-* Fee-based liquidity: 17%
-* Commodities-linked liquidity: 10%
-
-Risk note:
-
-Performance is variable and may go down. Past activity is not a guide to future results. Capital is at risk.
+Users should be able to understand their position, see important risk information, and make decisions without relying on private promises from referrers or community members.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

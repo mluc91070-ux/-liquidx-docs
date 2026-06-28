@@ -1,33 +1,51 @@
 # Fund Segregation
 
-LiquidX aims to keep operating funds separate from member allocations.
+Fund segregation means keeping different categories of funds separate in internal accounting and operations.
 
-## Internal accounting
+LiquidX should aim to distinguish user allocations from platform operating funds, referral rewards, desk capital, and reserves where the operational model allows.
 
-The platform should maintain internal accounting for:
+## Why segregation matters
 
-* Member allocations.
-* Operating expenses.
-* Referral rewards.
-* Desk capital.
-* Platform reserves.
+Segregation can help:
 
-Segregation reduces the risk that platform operating costs affect member allocations directly.
+* Track member allocations.
+* Support dashboard reporting.
+* Separate operating expenses from user allocation records.
+* Calculate referral rewards.
+* Manage pool or vault accounting.
+* Support withdrawal processing.
+* Improve internal review.
+
+## What segregation does not do
+
+Fund segregation is a control practice, not a guarantee.
+
+It does not eliminate:
+
+* Market risk.
+* Liquidity risk.
+* Counterparty risk.
+* Vault strategy risk.
+* Smart contract risk.
+* Stablecoin risk.
+* Operational risk.
+* Regulatory risk.
+* Total loss risk.
+
+Segregation does not mean funds are insured or protected from every loss event.
 
 ## Attestation and audit
 
-A third-party attestation, audit, or proof-of-reserves process is a roadmap item until formally completed.
+Any third-party attestation, audit, or proof-of-reserves process should only be presented as complete after it has formally happened.
 
-LiquidX will communicate updates on this topic through official channels.
+Until then, it should be described as a roadmap item or future transparency goal, not as an existing guarantee.
 
-## What this means for members
+## User expectation
 
-Fund segregation is a practice, not an absolute guarantee.
+Users should treat allocated capital as capital at risk even if internal accounting controls exist.
 
-Members should still treat allocated capital as capital at risk.
-
-Segregation does not protect against market loss, counterparty failure, operational failure, or regulatory action.
+Good controls matter, but they do not remove the risks described in the [Risk Framework](risk-framework.md).
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

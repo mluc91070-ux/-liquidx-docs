@@ -1,140 +1,91 @@
 # Allocation Tiers
 
-LiquidX uses a tier ladder.
+LiquidX packs are simple allocation tiers.
 
-Each tier has a minimum allocation size and a monthly reference rate.
+They help users choose how much USDT they want to allocate through the product. A pack is not a guaranteed-return product, bond, savings account, or fixed-yield plan.
 
-The reference rate is variable, backward-looking, and not guaranteed.
+## Available packs
 
-## Current tier ladder
+| Pack | Allocation |
+| --- | ---: |
+| Starter Pack | $25 |
+| Builder Pack | $50 |
+| Growth Pack | $100 |
+| Operator Pack | $300 |
+| Prime Pack | $500 |
+| Elite Pack | $1,000 |
 
-### Bronze
+The pack amount represents the user's allocation tier. Product rules, availability, lock periods, projected performance, referral treatment, and withdrawal conditions may vary by pack and should be reviewed inside the official app.
 
-Minimum allocation: **$25 USDT**
+## Why users choose a pack
 
-Reference monthly average: **around 5%**
+Users choose a pack because it gives them access to a simple allocation tier inside LiquidX.
 
-Access:
+A pack allows a user to participate in liquidity activity, track dashboard status, and access referral rewards without managing complex market strategies themselves.
 
-* LiquidX app.
-* Basic dashboard.
-* Education section.
-* Referral link.
+The user does not need to manage DeFi pools, trading bots, market-making systems, OTC relationships, or private execution routes manually.
 
-Status: Open.
+## Why packs exist
 
-### Silver
+Packs make liquidity allocation easier for retail users.
 
-Minimum allocation: **$50 USDT**
+Instead of asking users to build their own strategy, manage exchange accounts, or understand every liquidity route, LiquidX groups access into clear tiers that can be tracked from the dashboard.
 
-Reference monthly average: **around 7%**
+Packs may help LiquidX:
 
-Access:
+* Organize user allocations.
+* Group capital into Community Vaults.
+* Route capital into liquidity pools or vaults.
+* Apply product rules consistently.
+* Track performance and activity.
+* Calculate rewards and referrals.
+* Manage withdrawal cycles.
 
-* Everything in Bronze.
-* Private community channel.
+## What happens after choosing a pack
 
-Status: Open.
+After a deposit is confirmed and a pack is selected, capital may enter internal liquidity routes, managed pools, or Community Vaults.
 
-### Gold
+Those structures may support activity such as OTC liquidity demand, crypto market liquidity, stablecoin flows, market-making operations, commodities-related liquidity needs, private execution routes, or internal liquidity balancing.
 
-Minimum allocation: **$150 USDT**
+If eligible activity generates fees or performance, the dashboard may update accordingly.
 
-Reference monthly average: **around 10%**
+## How packs connect to rewards
 
-Access:
+Rewards may be calculated from eligible liquidity fees or vault performance.
 
-* Everything in Silver.
-* Ranking badge.
-* Priority support.
+The calculation may depend on:
 
-Status: Open.
+* Pack selected.
+* Amount allocated.
+* Vault or pool activity.
+* Liquidity demand.
+* Market conditions.
+* Fees and costs.
+* Product rules.
+* Risk controls.
+* Withdrawal status.
 
-### Platinum
+Rewards are variable and not guaranteed.
 
-Minimum allocation: **$500 USDT**
+## What packs do not mean
 
-Reference monthly average: **around 13%**
+A pack does not mean:
 
-Access:
+* Guaranteed monthly profit.
+* Fixed yield.
+* Capital protection.
+* Instant withdrawal in every condition.
+* Risk-free income.
+* Automatic referral earnings.
 
-* Everything in Gold.
-* Early access to new features.
+Packs are allocation tiers. Performance remains variable and capital remains at risk.
 
-Status: Open.
+## Choosing a pack
 
-### Diamond
+Users should choose a pack based on risk tolerance, product understanding, and money they can afford to place at risk.
 
-Minimum allocation: **$1,500 USDT**
-
-Reference monthly average: **around 16%**
-
-Access:
-
-* Everything in Platinum.
-* Weekly desk notes.
-* Diamond lounge.
-
-Status: Open.
-
-### Captain
-
-Minimum allocation: **$5,000 USDT**
-
-Reference monthly average: **around 19%**
-
-Access:
-
-* Everything in Diamond.
-* Local community leadership.
-* Co-marketing kit.
-
-Unlock condition:
-
-* Requires qualified invites.
-* A qualified invite counts only when the invited member deposits.
-
-### Ambassador
-
-Minimum allocation: **$15,000 USDT**
-
-Reference monthly average: **around 22%**
-
-Access:
-
-* Everything in Captain.
-* Ability to host official LiquidX events in your country, subject to approval.
-
-Unlock condition:
-
-* Requires qualified invites.
-* A qualified invite counts only when the invited member deposits.
-
-### VIP
-
-Minimum allocation: **$50,000 USDT**
-
-Reference monthly average: **around 25%**
-
-Access:
-
-* Everything in Ambassador.
-* Direct desk line.
-* Custom allocation review.
-* Top-tier events.
-
-Unlock condition:
-
-* Requires qualified invites or manual review for large allocators.
-
-## Important note about rates
-
-Tier rates are not guaranteed.
-
-They are reference figures based on the platform's monthly methodology and may change.
-
-A strong previous month does not guarantee the next month. Performance can be lower than expected, zero, or negative.
+Starting smaller can help a new user learn the app, dashboard, withdrawal process, reward logic, and risk model without unnecessary pressure.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Rewards may be lower than projected, delayed, or negative depending on liquidity demand, market activity, execution quality, counterparties, vault performance, and product rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

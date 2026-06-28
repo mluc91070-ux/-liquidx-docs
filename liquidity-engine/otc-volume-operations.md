@@ -2,42 +2,62 @@
 
 OTC means over-the-counter.
 
-OTC trades are private trades between parties, often used for larger transactions that may not be efficient to execute directly on public order books.
+An OTC transaction happens directly between parties instead of through a public exchange order book.
 
 ## Why OTC exists
 
-Large traders may use OTC because:
+Large-volume transactions can be difficult to execute on public order books without moving the market.
 
-* They need size.
-* They want reduced market impact.
-* They need direct settlement.
-* They want customized execution.
-* They need access to specific liquidity.
+OTC desks may help buyers and sellers access size, negotiate execution, settle directly, and reduce visible market impact.
 
-## How the desk participates
+OTC demand can come from:
 
-A liquidity desk may help:
+* Large crypto holders.
+* Funds and trading desks.
+* Exchanges and brokers.
+* Market makers.
+* Stablecoin operators.
+* Businesses moving large balances.
+* Participants needing specific settlement terms.
 
-* Source buyers.
-* Source sellers.
-* Quote prices.
-* Route capital.
-* Manage settlement.
-* Capture spread or fees.
+## Where liquidity is needed
 
-Liquidity desks can generate revenue by facilitating volume, managing spreads, routing flow, and providing execution access.
+An OTC desk needs liquidity to execute large transactions.
+
+That liquidity may support:
+
+* Buy-side demand.
+* Sell-side demand.
+* Short-term settlement needs.
+* Stablecoin movement.
+* Cross-venue balancing.
+* Quote fulfillment.
+* Market depth support.
+
+## How LiquidX may participate
+
+LiquidX may allocate capital into selected OTC-related liquidity flow when internal rules, risk controls, counterparties, and market conditions allow.
+
+If liquidity is used to support eligible OTC activity, performance may come from fees, spreads, or other compensation linked to liquidity demand.
+
+This is conditional. LiquidX should not be understood as guaranteeing access to every OTC opportunity or guaranteeing that OTC activity will always generate profit.
 
 ## OTC risks
 
-OTC operations may involve:
+OTC activity may involve:
 
 * Counterparty risk.
 * Settlement risk.
 * Pricing risk.
+* Execution risk.
+* Dispute risk.
 * Compliance risk.
 * Timing risk.
-* Dispute risk.
+* Liquidity mismatch.
+* Operational failure.
+
+Large private transactions can be complex. Even when demand exists, execution can fail or produce lower-than-expected results.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

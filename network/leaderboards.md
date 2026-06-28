@@ -1,33 +1,52 @@
 # Leaderboards
 
-LiquidX may publish community leaderboards to recognize active and responsible members.
+Leaderboards may be used to show community growth and campaign performance.
+
+They should encourage responsible education, not reckless promotion.
 
 ## What leaderboards may track
 
-Leaderboards may reflect:
+A LiquidX leaderboard may consider metrics such as:
 
-* Tier level.
-* Qualified invite activity.
-* Community leadership engagement.
-* Platform tenure.
+* Bot opens.
+* Users joined.
+* Qualified invites.
+* Pack selections.
+* Confirmed deposits.
+* Referral deposit volume.
+* Retention.
+* Community quality.
+* Campaign participation.
 
-## Important notes
+Exact metrics may vary by campaign and may be adjusted to reduce spam, fake users, or low-quality activity.
 
-Leaderboard rankings do not represent investment performance.
+## What leaderboards should not reward
 
-Appearing on a leaderboard does not imply guaranteed returns or special risk protections.
+Leaderboards should not reward:
 
-Leaderboard activity should never be used as a basis for investment decisions.
+* Fake accounts.
+* Bots.
+* Duplicate users.
+* Giveaway hunters.
+* Misleading income claims.
+* Spam.
+* Impersonation.
+* Pressure tactics.
 
-## Leaderboard rules
+LiquidX is education-first. Growth should come from users who understand the product and risk.
 
-Members appearing on leaderboards must continue to follow all LiquidX community rules:
+## Rewards and rankings
 
-* No guaranteed return claims.
-* No pressure tactics.
-* No misleading statements.
-* All communications must include appropriate risk disclosures.
+Leaderboard rankings may be used for recognition, campaign rewards, Liquidity Captain evaluation, or community status.
+
+Rankings are not guaranteed to produce rewards. Campaign terms, fraud checks, regional rules, user quality, and internal review may affect eligibility.
+
+## Responsible competition
+
+Healthy competition can help a launch, but it should not turn LiquidX into hype.
+
+The best leaderboard participants teach users what liquidity is, how LiquidX works, and why capital is at risk.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral, campaign, and leaderboard rewards are not guaranteed and depend on real user behavior, deposit activity, campaign terms, and risk controls. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

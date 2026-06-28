@@ -1,43 +1,54 @@
 # What LiquidX Is Not
 
-This page is important.
+LiquidX is designed to make liquidity allocation easier to understand. That starts with being clear about what the product is not.
 
-LiquidX should be understood clearly before any allocation is made.
+## Not a casino
 
-## LiquidX is not a bank
+LiquidX is not built around spins, leverage games, random outcomes, or entertainment-style speculation.
 
-LiquidX is not a bank account, savings account, or deposit account.
+The brand position is simple: **Stop Gambling. Start Allocating.**
 
-Allocated capital is not protected by bank deposit insurance.
+That does not mean allocation is safe. It means the product is designed around structured liquidity activity rather than casino-style behavior.
 
-## LiquidX is not a guaranteed yield product
+## Not a manual trading app
 
-LiquidX does not guarantee returns.
+Users do not open charts, place market orders, manage leverage, or select individual trades inside LiquidX.
 
-Any monthly percentage shown in the platform is a variable reference based on historical or realized desk activity. It is not a promise, forecast, or guarantee.
+After depositing and choosing a pack, users track allocation activity through the dashboard. The underlying liquidity activity is handled by the platform's internal routing, pool, or vault process.
 
-Performance can be positive, flat, or negative.
+## Not a guaranteed-return product
 
-## LiquidX is not financial advice
+LiquidX does not guarantee:
 
-LiquidX does not tell you what to invest in.
+* Monthly returns.
+* Fixed yield.
+* Future performance.
+* Capital protection.
+* Referral income.
+* Withdrawal timing in every condition.
 
-The platform provides access to liquidity-based strategies, but every member remains responsible for their own decisions.
+Any message claiming guaranteed profit, risk-free income, or fixed monthly returns should be treated as wrong.
 
-## LiquidX is not risk-free
+## Not a substitute for judgment
 
-Capital is at risk.
+LiquidX simplifies access, but users are still responsible for understanding risk.
 
-Risks may include market risk, counterparty risk, liquidity risk, operational risk, execution risk, wallet risk, regulatory risk, and stablecoin risk.
+Before depositing, users should understand:
 
-## LiquidX is not an MLM or pyramid scheme
+* What liquidity is.
+* What OTC means.
+* What a pack represents.
+* What a vault does.
+* How withdrawals work.
+* Why performance can vary.
+* Why capital can be lost.
 
-LiquidX referral rewards are paid only on qualified deposits.
+## Not available for everyone
 
-There is no reward for recruiting alone. A referral only counts when a real user deposits capital. Referral rewards should come from LiquidX's commercial budget and platform revenue model, not from an obligation for users to recruit others.
+LiquidX may not be available in every jurisdiction or for every user. Access can depend on local rules, internal risk policy, compliance requirements, and product availability.
 
-No member should present LiquidX as a guaranteed income opportunity.
+If you are not allowed to use this type of product where you live, do not use LiquidX.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.

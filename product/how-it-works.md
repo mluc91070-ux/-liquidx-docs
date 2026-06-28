@@ -1,66 +1,130 @@
 # How LiquidX Works
 
-LiquidX is designed around a simple allocation flow.
+LiquidX gives users a simple way to access liquidity-based allocation through Telegram.
 
-## The four-step model
+The user does not trade manually. The user deposits USDT, chooses a pack, and tracks activity through the dashboard while the platform routes capital through internal liquidity structures.
 
-### 1. Choose a tier
+## The complete flow
 
-Members select an allocation tier based on their capital size and risk appetite.
+The LiquidX flow is simple:
 
-LiquidX currently uses the following tier structure:
+1. User opens the Telegram Mini App.
+2. User deposits USDT.
+3. User chooses a pack.
+4. LiquidX allocates the capital.
+5. Capital enters vaults, pools, or liquidity routes.
+6. Liquidity is used for selected market activity.
+7. Fees may be generated.
+8. Rewards and activity may appear on the dashboard.
+9. User may request withdrawals according to product rules.
 
-* Bronze
-* Silver
-* Gold
-* Platinum
-* Diamond
-* Captain
-* Ambassador
-* VIP
+This is why packs matter. A pack is not just a badge. It is the user's allocation tier inside the LiquidX liquidity system.
 
-Higher tiers may include additional community, support, or access benefits.
+## Step 1: Open the Telegram Mini App
 
-### 2. Deposit USDT
+Users start inside Telegram through the official LiquidX bot: **@LiquidXBot**.
 
-Members deposit USDT through the official LiquidX Telegram bot.
+The Mini App is the main interface for deposits, pack selection, dashboard tracking, referrals, and withdrawal requests.
 
-The app shows deposit instructions, network details, and confirmation status.
+## Step 2: Deposit USDT
 
-### 3. Capital is allocated
+The user sends USDT to the deposit details shown inside the official app.
 
-Once confirmed, member capital is allocated by the desk into liquidity-based strategies.
+Deposits may require blockchain confirmations, network checks, and internal review before they appear on the dashboard.
 
-These may include:
+Users should always verify the official bot, supported network, deposit address, and amount before sending funds.
 
-* OTC volume operations.
+## Step 3: Choose a pack
+
+After a deposit is confirmed, the user selects a pack.
+
+Packs are simple allocation tiers:
+
+* $25 Starter Pack.
+* $50 Builder Pack.
+* $100 Growth Pack.
+* $300 Operator Pack.
+* $500 Prime Pack.
+* $1,000 Elite Pack.
+
+Packs do not guarantee returns. They define the user's allocation tier inside the LiquidX product.
+
+## Step 4: Capital enters allocation
+
+After pack selection, user capital may enter internal liquidity routes, managed pools, or Community Vaults.
+
+These structures may be used to support selected liquidity activity, including:
+
+* OTC-related liquidity flow.
 * Crypto market liquidity.
-* Market making.
-* Fee-based liquidity routing.
-* Commodities-linked liquidity opportunities.
+* Stablecoin flows.
+* Market depth opportunities.
+* Market-making activity.
+* Commodities-related liquidity needs.
+* Internal liquidity balancing.
+* Private execution routes.
 
-The exact allocation mix may change depending on market conditions, liquidity availability, and risk controls.
+## Step 5: Liquidity may be used by the market
 
-### 4. Track and withdraw
+Liquidity can be needed by OTC desks, market makers, high-volume buyers and sellers, stablecoin flow operators, private execution routes, commodities-related trading desks, and other liquidity pools.
 
-Members can track their allocation through the dashboard and request withdrawal through the official Telegram app.
+LiquidX helps organize user capital so it may be useful to these liquidity needs.
 
-Withdrawals are processed according to the terms shown in the app.
+One small deposit may not be enough to matter. Many small deposits grouped through packs, pools, and Community Vaults may create stronger liquidity capacity.
 
-## Simple explanation
+## Step 6: Liquidity activity may generate fees
 
-You deposit USDT.
+When liquidity is used, fees may be generated.
 
-LiquidX allocates it into liquidity operations.
+These fees may come from:
 
-The desk operates during the month.
+* OTC execution fees.
+* Liquidity access fees.
+* Spread capture.
+* Market routing fees.
+* Pool activity fees.
+* Vault strategy performance.
+* Stablecoin flow fees.
+* High-volume liquidity demand.
 
-After the month closes, realized performance is calculated.
+Part of these fees may be used to calculate user rewards, depending on the pack, vault activity, market conditions, fees, costs, risk controls, and product rules.
 
-Your dashboard updates according to your active tier and the published methodology.
+Rewards are not magic. Rewards may come from liquidity being useful to the market.
 
-Performance is variable and not guaranteed.
+## Step 7: Dashboard tracking
+
+The dashboard is designed to make allocation visible.
+
+Users should be able to track:
+
+* Deposit status.
+* Selected pack.
+* Allocation status.
+* Balance.
+* Projected performance.
+* Activity history.
+* Rewards.
+* Referral rewards.
+* Withdrawal status.
+
+Dashboard figures are for transparency and tracking. They are not promises of future return.
+
+## Step 8: Withdrawals
+
+Users can request withdrawals inside the app.
+
+Withdrawals may depend on pack rules, lock periods, vault cycles, liquidity availability, processing windows, security checks, and network conditions.
+
+See [Withdrawals](withdrawals.md) for details.
+
+## Step 9: Referral growth
+
+Every user can invite others.
+
+Referral rewards are based on real deposit activity, not fake users, bots, spam, or empty signups. The referral system is intended to support community-powered growth through education and responsible onboarding.
+
+See [Referral Program](../network/referral-program.md) for details.
 
 ---
 
-> **Risk notice:** LiquidX performance is variable and not guaranteed. Monthly figures are reference figures only and may change. Crypto assets and liquidity strategies involve risk, including the possible loss of some or all allocated capital. Past performance is not a reliable indicator of future results. Nothing on this page is financial advice. Only use the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Rewards may be lower than projected, delayed, or negative depending on liquidity demand, market activity, execution quality, counterparties, vault performance, and product rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
