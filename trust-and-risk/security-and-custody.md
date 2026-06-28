@@ -43,7 +43,7 @@ Security controls can reduce risk, but they cannot eliminate it.
 
 Users should:
 
-* Use only the official bot: **@LiquidXBot**.
+* Use only the official bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 * Verify deposit addresses inside the app.
 * Confirm the network before sending USDT.
 * Keep wallet and exchange accounts secure.
@@ -102,4 +102,4 @@ Fund controls are important, but they are not insurance and do not guarantee cap
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

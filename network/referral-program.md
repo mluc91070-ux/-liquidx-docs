@@ -51,7 +51,7 @@ A responsible referrer should help users understand:
 * Capital is at risk.
 * No return is guaranteed.
 * Withdrawals may depend on product rules and liquidity conditions.
-* Users should only use the official bot: **@LiquidXBot**.
+* Users should only use the official bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 ## What is not allowed
 
@@ -82,4 +82,4 @@ Read [Qualified Invites](qualified-invites.md) and [Liquidity Captains](liquidit
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral rewards are not guaranteed and depend on real user behavior, deposit activity, and program rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral rewards are not guaranteed and depend on real user behavior, deposit activity, and program rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

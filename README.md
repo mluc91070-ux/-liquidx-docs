@@ -51,6 +51,6 @@ LiquidX will never message you first asking for funds, seed phrases, private key
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Crypto assets and liquidity strategies may result in the loss of some or all allocated capital. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Crypto assets and liquidity strategies may result in the loss of some or all allocated capital. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 Copyright 2026 LiquidX. All rights reserved.

@@ -27,7 +27,7 @@ This is why packs matter. A pack is not just a badge. It is the user's allocatio
 
 ## Step 1: Open the Telegram Mini App
 
-Users start inside Telegram through the official LiquidX bot: **@LiquidXBot**.
+Users start inside Telegram through the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 The Mini App is the main interface for deposits, pack selection, dashboard tracking, referrals, and withdrawal requests.
 
@@ -132,4 +132,4 @@ See [Referral Program](../network/referral-program.md) for details.
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Rewards may be lower than projected, delayed, or negative depending on liquidity demand, market activity, execution quality, counterparties, vault performance, and product rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Rewards may be lower than projected, delayed, or negative depending on liquidity demand, market activity, execution quality, counterparties, vault performance, and product rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

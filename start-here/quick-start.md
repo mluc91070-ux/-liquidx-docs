@@ -11,7 +11,7 @@ Read the risk pages before depositing. Do not allocate emergency money or money 
 
 ## 1. Open the official Telegram Mini App
 
-Start only from the official LiquidX bot: **@LiquidXBot**.
+Start only from the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 Check the handle carefully. LiquidX will never send you a private message first asking for funds, seed phrases, private keys, or personal wallet transfers.
 
@@ -84,4 +84,4 @@ Referral rewards are based on real deposit activity, not fake accounts, bots, or
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

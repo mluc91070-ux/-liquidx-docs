@@ -50,7 +50,7 @@ If losing the allocated capital would damage your life or financial stability, d
 
 ## Use official channels only
 
-Only use the official LiquidX bot: **@LiquidXBot**.
+Only use the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 Do not trust private messages, lookalike bots, fake support accounts, cloned websites, or claims of guaranteed profit.
 
@@ -58,4 +58,4 @@ For a deeper breakdown, read the [Risk Framework](../trust-and-risk/risk-framewo
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

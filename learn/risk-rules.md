@@ -43,7 +43,7 @@ This applies even if the person is a referrer, community member, KOL, or promote
 
 ## Rule 5: Use only official links
 
-Use only the official bot: **@LiquidXBot**.
+Use only the official bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 Never send funds to a wallet address received by private message. Never share seed phrases or private keys.
 
@@ -67,4 +67,4 @@ Good referrers help users understand LiquidX. They do not spam, mislead, pressur
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

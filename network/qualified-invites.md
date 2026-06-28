@@ -57,4 +57,4 @@ That growth should be based on users who understand LiquidX and choose to alloca
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral rewards are not guaranteed and depend on real user behavior, deposit activity, and program rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral rewards are not guaranteed and depend on real user behavior, deposit activity, and program rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

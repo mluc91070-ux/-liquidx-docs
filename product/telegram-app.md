@@ -42,7 +42,7 @@ The app should help users understand what is happening without requiring them to
 
 ## Security expectations
 
-Telegram access also creates phishing risk. Users should always verify that they are using the official bot: **@LiquidXBot**.
+Telegram access also creates phishing risk. Users should always verify that they are using the official bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 LiquidX will never:
 
@@ -62,4 +62,4 @@ Users are still exposed to market risk, liquidity risk, stablecoin risk, counter
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

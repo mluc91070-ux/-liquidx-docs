@@ -7,7 +7,7 @@ coverY: 0
 
 There is only one official LiquidX bot:
 
-**@LiquidXBot**
+**[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**
 
 Any other bot, group, private message, support account, or website claiming to collect funds for LiquidX should be treated as suspicious unless it is verified through official channels.
 
@@ -64,4 +64,4 @@ If you see a suspicious account:
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

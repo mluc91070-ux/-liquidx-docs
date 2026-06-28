@@ -54,4 +54,4 @@ The best leaderboard participants teach users what liquidity is, how LiquidX wor
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral, campaign, and leaderboard rewards are not guaranteed and depend on real user behavior, deposit activity, campaign terms, and risk controls. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Referral, campaign, and leaderboard rewards are not guaranteed and depend on real user behavior, deposit activity, campaign terms, and risk controls. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

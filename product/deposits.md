@@ -13,7 +13,7 @@ Users deposit USDT through the official Telegram Mini App, wait for confirmation
 
 Always verify:
 
-* You are using the official bot: **@LiquidXBot**.
+* You are using the official bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 * The deposit address is shown inside the official app.
 * The network is supported.
 * The amount is correct.
@@ -58,4 +58,4 @@ LiquidX does not control blockchain network conditions, exchange withdrawal dela
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.

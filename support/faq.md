@@ -181,7 +181,7 @@ Start by reading the docs.
 
 Then open the official bot, verify the handle, deposit USDT only through the official app, choose a pack, and track your dashboard.
 
-Only use the official bot: **@LiquidXBot**.
+Only use the official bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
 
 ## What should I avoid?
 
@@ -197,4 +197,4 @@ Avoid:
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Rewards may be lower than projected, delayed, or negative depending on liquidity demand, market activity, execution quality, counterparties, vault performance, and product rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **@LiquidXBot**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Rewards may be lower than projected, delayed, or negative depending on liquidity demand, market activity, execution quality, counterparties, vault performance, and product rules. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
