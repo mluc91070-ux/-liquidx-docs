@@ -30,9 +30,17 @@ New users should read:
 * [Withdrawals](product/withdrawals.md)
 * [Risk Framework](trust-and-risk/risk-framework.md)
 
-## Official bot
+## Official Links
 
-Only use the official LiquidX bot: **@LiquidXBot**.
+| Channel | Link |
+|---|---|
+| 📱 App (Telegram Bot) | [https://t.me/LiquidX\_official\_bot](https://t.me/LiquidX_official_bot) |
+| 🌐 Website | [https://liquidx.fund](https://liquidx.fund) |
+| 📚 Docs | [https://docs.liquidx.fund](https://docs.liquidx.fund) |
+| 💬 Community | [https://t.me/liquidx\_fund](https://t.me/liquidx_fund) |
+| 𝕏 Twitter / X | [https://x.com/liquidX\_fund](https://x.com/liquidX_fund) |
+
+Only use the official LiquidX bot: **[@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)**.
 
 LiquidX will never message you first asking for funds, seed phrases, private keys, or personal wallet transfers.
 

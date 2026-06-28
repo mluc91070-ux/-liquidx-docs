@@ -2,9 +2,19 @@
 
 Use official LiquidX channels only.
 
+## Official Links
+
+| Channel | Link |
+|---|---|
+| 📱 App (Telegram Bot) | [https://t.me/LiquidX\_official\_bot](https://t.me/LiquidX_official_bot) |
+| 🌐 Website | [https://liquidx.fund](https://liquidx.fund) |
+| 📚 Docs | [https://docs.liquidx.fund](https://docs.liquidx.fund) |
+| 💬 Community | [https://t.me/liquidx\_fund](https://t.me/liquidx_fund) |
+| 𝕏 Twitter / X | [https://x.com/liquidX\_fund](https://x.com/liquidX_fund) |
+
 For account questions, deposit questions, withdrawal questions, referral questions, or security concerns, start from the official bot:
 
-**@LiquidXBot**
+**[@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)**
 
 ## Before contacting support
 
