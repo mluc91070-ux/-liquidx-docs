@@ -1,4 +1,4 @@
-﻿---
+---
 cover: ../.gitbook/assets/gitbook-cover.png
 coverY: 0
 ---
@@ -6,10 +6,6 @@ coverY: 0
 # Welcome to LiquidX
 
 LiquidX is built around one idea: **Liquidity for Everyone**.
-
-<figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 04_48_53 AM.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/ChatGPT Image Jun 26, 2026, 04_48_53 AM.png" alt=""><figcaption></figcaption></figure>
 
 It gives members a simple way to allocate capital into liquidity-based strategies operated by a real desk. The goal is to make market liquidity easier to access, easier to track, and easier to understand.
 
@@ -57,4 +53,4 @@ Start with [What LiquidX Is](what-is-liquidx.md), then read [How LiquidX Works](
 
 ***
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
+> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: [**@LiquidX\_official\_bot**](https://t.me/LiquidX_official_bot).
