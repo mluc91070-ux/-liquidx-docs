@@ -62,4 +62,4 @@ Users are still exposed to market risk, liquidity risk, stablecoin risk, counter
 
 ---
 
-> **Risk notice:** LiquidX does not guarantee returns. Performance is variable. Capital is at risk. Dashboard projections and monthly targets are illustrative, not promises. Nothing in this documentation is financial advice. Use only the official LiquidX bot: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**.
+*Capital at risk. Performance variable. Not financial advice. Official bot: [@LiquidX_official_bot](https://t.me/LiquidX_official_bot)*
