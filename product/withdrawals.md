@@ -5,24 +5,25 @@ coverY: 0
 
 # Withdrawals
 
-Users can request withdrawals inside the LiquidX Telegram app.
+Users can request a withdrawal at any time, directly from the Wallet tab inside the LiquidX Telegram app.
 
-Withdrawals are part of the product experience, but they may not always be instant. Timing can depend on product rules, liquidity conditions, security checks, and blockchain network status.
+The process is transparent: your available balance, the amount, and all conditions are shown before you confirm — nothing is hidden.
 
-<figure><img src="../.gitbook/assets/withdrawal.png" alt="LiquidX Withdrawal Screen"><figcaption>Withdrawal request screen — confirm destination, network and amount before submitting.</figcaption></figure>
+<figure><img src="../.gitbook/assets/withdraw-screen.png" alt="LiquidX Withdraw Screen"><figcaption>The Withdraw screen — available balance shown upfront, amount input, TRON address field, and a review step before anything is sent.</figcaption></figure>
+
+## How withdrawals work — step by step
+
+When you tap **Withdraw** in the Wallet:
+
+1. The app shows your **Available to Withdraw** balance clearly at the top.
+2. Enter an **Amount (USD)** — or tap **Max** to request your full available balance.
+3. Paste your **TRON (TRC-20) destination address** (starts with T...).
+4. Tap **Review withdrawal** — you see all details before confirming.
+5. Confirm and submit. The status appears in your Wallet history.
+
+Withdrawals are processed in **USDT on the TRON network**. Amounts and windows are always shown before you confirm — nothing is deducted until the review step is completed.
 
 ## Withdrawal flow
-
-A typical withdrawal process may include:
-
-1. Open the official LiquidX Telegram Mini App.
-2. Choose the withdrawal option.
-3. Review available balance and pack rules.
-4. Enter or confirm the destination wallet.
-5. Confirm the network and amount.
-6. Complete any required security checks.
-7. Submit the request.
-8. Track status on the dashboard.
 
 ## What can affect withdrawals
 

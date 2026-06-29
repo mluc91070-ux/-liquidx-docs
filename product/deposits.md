@@ -9,6 +9,25 @@ Deposits are the first funding step in LiquidX.
 
 Users deposit USDT through the official Telegram Mini App, wait for confirmation, choose a pack, and then allocation can begin.
 
+<figure><img src="../.gitbook/assets/deposit-screen.png" alt="LiquidX Add Funds Screen"><figcaption>The Add Funds screen — your personal USDT (TRC-20) deposit address with QR code, ready to receive funds.</figcaption></figure>
+
+## How deposits work — step by step
+
+When you tap **+ Deposit** in the Wallet, the app shows:
+
+* Your personal **USDT (TRC-20) address** on the TRON network.
+* A **QR code** you can scan directly from your exchange or wallet.
+* A **Copy** button to paste the address securely.
+* A 3-step status tracker: **Waiting → Verifying → Credited**.
+
+Once you send USDT from your exchange or wallet:
+
+1. The app waits for the transaction to hit the TRON network.
+2. Detection is **automatic** — no need to paste a hash or contact support.
+3. Once verified, funds appear as **Available** in your Wallet.
+
+> **Important:** Send only **USDT (TRC-20)** on the **TRON network**. Funds sent on any other network or token may be lost permanently.
+
 ## Before depositing
 
 Always verify:

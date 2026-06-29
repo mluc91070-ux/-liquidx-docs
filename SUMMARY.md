@@ -14,6 +14,7 @@
 
 * [How LiquidX Works](product/how-it-works.md)
 * [Telegram App](product/telegram-app.md)
+* [Wallet](product/wallet.md)
 * [Deposits](product/deposits.md)
 * [Allocation Tiers](product/allocation-tiers.md)
 * [Dashboard](product/dashboard.md)
