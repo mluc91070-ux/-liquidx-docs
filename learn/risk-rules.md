@@ -33,7 +33,7 @@ If you do not understand the product, do not allocate yet.
 
 If eligible, start with an amount that lets you learn the platform without emotional pressure.
 
-The $25 Starter Pack exists so users can begin with simple access rather than oversized exposure.
+The $100 Growth Pack exists so users can begin with simple access rather than oversized exposure.
 
 ## Rule 4: Never trust guaranteed-return claims
 

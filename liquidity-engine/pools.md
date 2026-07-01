@@ -21,9 +21,9 @@ LiquidX adapts this idea for a Telegram-native experience. Users do not need to 
 
 ## Community liquidity capacity
 
-One $25 deposit is small.
+One $100 deposit is small on its own.
 
-Many $25, $50, $100, $300, $500, and $1,000 deposits can become meaningful liquidity capacity when organized together.
+Many $100, $300, $500, and $1,000 deposits can become meaningful liquidity capacity when organized together.
 
 That is why LiquidX uses packs and allocation structures. Small users can participate together in liquidity activity that normally requires larger capital.
 

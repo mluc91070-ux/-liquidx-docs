@@ -83,7 +83,7 @@ Over-the-counter. A transaction that happens directly between parties instead of
 
 ## Pack
 
-A simple allocation tier in LiquidX, such as the Starter Pack, Builder Pack, Growth Pack, Operator Pack, Prime Pack, or Elite Pack.
+A simple allocation tier in LiquidX, such as the Growth Pack, Operator Pack, Prime Pack, or Elite Pack.
 
 ## RFQ (Request for Quote)
 

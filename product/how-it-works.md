@@ -45,8 +45,6 @@ After a deposit is confirmed, the user selects a pack.
 
 Packs are simple allocation tiers:
 
-* $25 Starter Pack.
-* $50 Builder Pack.
 * $100 Growth Pack.
 * $300 Operator Pack.
 * $500 Prime Pack.

@@ -19,7 +19,7 @@ LiquidX helps users move from casino-style speculation to structured allocation.
 
 The platform is built around:
 
-* Simple access from $25.
+* Simple access from $100.
 * Telegram-native onboarding.
 * USDT deposits.
 * Liquidity packs.

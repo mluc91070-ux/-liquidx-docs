@@ -77,8 +77,6 @@ A pack is a simple allocation tier.
 
 LiquidX packs are:
 
-* $25 Starter Pack.
-* $50 Builder Pack.
 * $100 Growth Pack.
 * $300 Operator Pack.
 * $500 Prime Pack.

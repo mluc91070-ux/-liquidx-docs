@@ -18,7 +18,7 @@ LiquidX is not a casino, signal group, or guaranteed-return product. It is desig
 With LiquidX, eligible users can:
 
 * Deposit USDT through the official Telegram app.
-* Choose a pack starting from $25.
+* Choose a pack starting from $100.
 * Let capital enter internal liquidity routes, pools, or vaults.
 * Track balance, activity, projected performance, and referral rewards.
 * Request withdrawals according to product rules, lock periods, processing windows, and liquidity conditions.

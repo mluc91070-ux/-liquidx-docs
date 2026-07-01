@@ -17,7 +17,7 @@ A Community Vault is a shared allocation structure where user deposits are group
 
 Community Vaults help LiquidX create stronger liquidity capacity than individual small deposits alone.
 
-For example, one user depositing $25 is small. Thousands of users depositing $25, $50, $100, $300, $500, or $1,000 can create a meaningful liquidity pool.
+For example, one user depositing $100 is small on its own. Thousands of users depositing $100, $300, $500, or $1,000 can create a meaningful liquidity pool.
 
 Community Vaults allow small users to participate together in liquidity activity that would normally require larger capital.
 
