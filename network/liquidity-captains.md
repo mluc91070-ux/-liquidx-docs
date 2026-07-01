@@ -5,183 +5,166 @@ coverY: 0
 
 # Liquidity Captains
 
-The top three tiers of the LiquidX Partnership Program — **Captain**, **Ambassador**, and **VIP** — form the network's core builder layer.
+Les trois tiers supérieurs du Partnership Program — **Captain**, **Ambassador**, et **VIP** — forment la couche de builders du réseau.
 
-These are not just high-yield deposit positions. They carry responsibility: a minimum number of active invited members is required to unlock and maintain each tier. Partners at these levels are the people who build communities, educate members, and grow the network with integrity.
+Ce ne sont pas seulement des positions à haut rendement. Ils nécessitent un nombre minimum de membres actifs invités pour être débloqués. Les partenaires à ces niveaux construisent des communautés, éduquent les membres, et font grandir le réseau avec intégrité.
 
 ---
 
-## The three upper tiers
+## Les trois tiers supérieurs
 
-<figure><img src="../.gitbook/assets/slide-03-ladder.png" alt="Partnership Program Ladder — Captain, Ambassador, VIP tiers"><figcaption>Captain, Ambassador, and VIP are the top three tiers. Higher deposit, higher yield, higher commission, more required invites.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-03-ladder.png" alt="Partnership ladder — Captain, Ambassador, VIP tiers with their deposit, yield, invite, and commission requirements"></figure>
 
-| Tier | Deposit | Monthly yield (target) | Invites required | Commission L1 / L2 |
+| Tier | Dépôt | Yield mensuel (objectif) | Invitations actives requises | Commission L1 / L2 |
 |---|---|---|---|---|
-| Captain | $5,000 | 35% / mo | 20 active members | 15% / 5% |
-| Ambassador | $15,000 | 38% / mo | 50 active members | 17% / 6% |
-| VIP (Apex) | $50,000 | 40% / mo | 100 active members | 18% / 7% |
+| Captain | $5,000 | 35% / mo | 20 membres | 15% / 5% |
+| Ambassador | $15,000 | 38% / mo | 50 membres | 17% / 6% |
+| VIP (Apex) | $50,000 | 40% / mo | 100 membres | 18% / 7% |
 
-> "Invites required" means active members who have deposited and funded a pack through your invite link — not just signups.
+> "Invitations actives requises" = membres qui ont déposé et financé un pack via ton lien. Pas seulement des inscriptions.
 
 ---
 
-## Captain — $5,000 · 35% · 20 members
+## Captain — $5,000 · 35% · 20 membres
 
-The Captain tier is the first upper-tier position. It marks the transition from solo investor to active network builder.
+<figure><img src="../.gitbook/assets/slide-04-two-layers.png" alt="Two earning layers — deposit commission and 12-month recurring yield share"></figure>
 
-**To unlock Captain:**
-- Hold a $5,000 pack (or equivalent).
-- Have at least 20 active members in your Level 1 + Level 2 network.
+Le tier Captain marque la transition de l'investisseur solo au builder de réseau actif.
 
-**What you earn:**
-- 35% monthly yield (target) on your own $5,000.
-- 15% commission on every direct member's deposit (L1, one-time).
-- 5% commission on every L2 member's deposit (one-time).
-- 15% of every L1 member's monthly yield — for their first 12 months.
-- 5% of every L2 member's monthly yield — for their first 12 months.
+**Pour débloquer Captain :**
+- Détenir un pack $5,000 (ou équivalent).
+- Avoir au moins 20 membres actifs dans ton réseau L1 + L2.
 
-**At scale — Captain, 20 members averaging $1,000 (Platinum at 29%/mo):**
+**Ce que tu gagnes :**
+- 35% de yield mensuel (objectif) sur ton propre $5,000.
+- 15% sur chaque dépôt L1 — une fois, instantanément.
+- 5% sur chaque dépôt L2 — une fois.
+- 15% du yield mensuel L1 — pendant leurs 12 premiers mois.
+- 5% du yield mensuel L2 — pendant leurs 12 premiers mois.
 
-| Event | Your earnings |
+**Exemple à l'échelle — Captain, 20 membres à $1,000 (Platinum, 29%/mois) :**
+
+| Événement | Gains |
 |---|---|
-| 20 deposits of $1,000 | $3,000 commission (15% × $1,000 × 20) |
-| Monthly yield share (20 × $290 × 15%) | $870 / month |
-| 12-month yield share total | ~$10,440 |
+| 20 dépôts × $1,000 | $3,000 (15% × $1,000 × 20) |
+| Override mensuel (20 × $290 × 15%) | $870 / mois |
+| Total yield share sur 12 mois | ~$10,440 |
 
 ---
 
-## Ambassador — $15,000 · 38% · 50 members
+## Ambassador — $15,000 · 38% · 50 membres
 
-The Ambassador tier is for serious network builders with a proven team and high capital allocation. At this level, the compounding effect of yield share across 50+ members becomes significant.
+Le tier Ambassador est pour les builders sérieux avec une équipe prouvée et une allocation de capital élevée.
 
-**To unlock Ambassador:**
-- Hold a $15,000 pack (or equivalent).
-- Have at least 50 active members across your network.
+**Pour débloquer Ambassador :**
+- Détenir un pack $15,000.
+- Avoir au moins 50 membres actifs dans ton réseau.
 
-**What you earn:**
-- 38% monthly yield (target) on your own $15,000.
-- 17% commission on every L1 deposit (one-time).
-- 6% commission on every L2 deposit (one-time).
-- 17% of every L1 member's monthly yield — for their first 12 months.
-- 6% of every L2 member's monthly yield — for their first 12 months.
+**Ce que tu gagnes :**
+- 38% de yield mensuel (objectif) sur ton propre $15,000.
+- 17% sur chaque dépôt L1 — une fois.
+- 6% sur chaque dépôt L2 — une fois.
+- 17% du yield mensuel L1 — pendant leurs 12 premiers mois.
+- 6% du yield mensuel L2 — pendant leurs 12 premiers mois.
 
-**At scale — Ambassador, 50 members averaging $2,500 (Diamond at 32%/mo):**
+**Exemple à l'échelle — Ambassador, 50 membres à $2,500 (Diamond, 32%/mois) :**
 
-| Event | Your earnings |
+| Événement | Gains |
 |---|---|
-| 50 deposits of $2,500 | $21,250 commission (17% × $2,500 × 50) |
-| Monthly yield share (50 × $800 × 17%) | $6,800 / month |
-| 12-month yield share total | ~$81,600 |
+| 50 dépôts × $2,500 | $21,250 (17% × $2,500 × 50) |
+| Override mensuel (50 × $800 × 17%) | $6,800 / mois |
+| Total yield share sur 12 mois | ~$81,600 |
 
 ---
 
-## VIP (Apex) — $50,000 · 40% · 100 members
+## VIP (Apex) — $50,000 · 40% · 100 membres
 
-VIP is the top tier. It carries the highest yield rate on personal capital, the highest commission rates across both levels, and the largest active network requirement.
+<figure><img src="../.gitbook/assets/slide-08-vip-ceiling.png" alt="VIP ceiling — 18% rate on 100 members averaging $7,000 = $40,320/month recurring override"></figure>
 
-**To unlock VIP:**
-- Hold a $50,000 pack (or equivalent).
-- Have at least 100 active members across your network.
+VIP est le tier apex. Il porte le taux de yield le plus élevé sur le capital personnel, les taux de commission les plus hauts sur les deux niveaux, et la plus grande exigence de réseau actif.
 
-**What you earn:**
-- 40% monthly yield (target) on your own $50,000.
-- 18% commission on every L1 deposit (one-time).
-- 7% commission on every L2 deposit (one-time).
-- 18% of every L1 member's monthly yield — for their first 12 months.
-- 7% of every L2 member's monthly yield — for their first 12 months.
+**Pour débloquer VIP :**
+- Détenir un pack $50,000.
+- Avoir au moins 100 membres actifs dans ton réseau.
 
-<figure><img src="../.gitbook/assets/slide-08-vip-ceiling.png" alt="VIP ceiling — 18% on 100 members"><figcaption>VIP at 18%. 100 members averaging $7,000 (Diamond, 32%/mo) = $40,320/mo in recurring yield share, plus $126,000 in deposit commission.</figcaption></figure>
+**Ce que tu gagnes :**
+- 40% de yield mensuel (objectif) sur ton propre $50,000.
+- 18% sur chaque dépôt L1 — une fois.
+- 7% sur chaque dépôt L2 — une fois.
+- 18% du yield mensuel L1 — pendant leurs 12 premiers mois.
+- 7% du yield mensuel L2 — pendant leurs 12 premiers mois.
 
-**At scale — VIP, 100 members averaging $7,000 (Diamond at 32%/mo):**
+**Exemple à l'échelle — VIP, 100 membres à $7,000 (Diamond, 32%/mois) :**
 
-| Event | Your earnings |
+| Événement | Gains |
 |---|---|
-| 100 deposits of $7,000 | $126,000 commission (18% × $7,000 × 100) |
-| Monthly yield share (100 × $2,240 × 18%) | $40,320 / month |
-| Year 1 yield share total | ~$483,840 |
+| 100 dépôts × $7,000 | $126,000 (18% × $7,000 × 100) |
+| Override mensuel (100 × $2,240 × 18%) | $40,320 / mois |
+| Total yield share sur 12 mois | ~$483,840 |
 
 ---
 
-## The upgrade effect
+## L'effet upgrade — ton taux monte sur toute ton équipe
 
-When you upgrade from Captain to Ambassador to VIP, your higher commission rate applies immediately to your entire existing team — not just members added after the upgrade.
+<figure><img src="../.gitbook/assets/slide-05-upgrade-hook.png" alt="Upgrade your pack — commission rate rises immediately on your entire existing downline"></figure>
 
-<figure><img src="../.gitbook/assets/slide-05-upgrade-hook.png" alt="Upgrade your pack — rate rises on everyone you've referred"><figcaption>Commission rates are looked up at payout time. Upgrading your pack retroactively benefits every member in your downline.</figcaption></figure>
+Quand tu passes de Captain à Ambassador à VIP, ton taux de commission supérieur s'applique **immédiatement à toute ton équipe existante** — pas seulement aux membres ajoutés après l'upgrade.
 
-**Example:** You are Captain (15%) with 30 team members. You upgrade to Ambassador (17%). From the next payout cycle, you earn 17% on all 30 existing members. You do not need to rebuild your network to benefit from the rate increase.
+**Exemple :** Tu es Captain (15%) avec 30 membres. Tu passes Ambassador (17%). Dès le prochain cycle de paiement, tu gagnes 17% sur tes 30 membres actuels.
 
-This makes early team-building and staged upgrades the most effective path to growing your override income.
-
----
-
-## Responsibilities at the upper tiers
-
-Partners at Captain, Ambassador, and VIP level represent LiquidX to a significant number of people. With that comes a higher standard of conduct.
-
-**What upper-tier partners do:**
-
-* Educate members on how LiquidX works — deposits, packs, yield variability, withdrawal rules, and risk.
-* Run accurate onboarding — no inflated earnings claims, no fake screenshots.
-* Build retention by helping members understand what they are in and what to expect.
-* Direct members to the official bot for support — not to personal DMs.
-* Report suspicious activity, fake account patterns, or fraud attempts.
-
-**Messaging standards — what you must not say:**
-
-* "Guaranteed yield" or "fixed monthly profit."
-* "No risk" or "no loss possible."
-* "Passive income guaranteed."
-* "Double your money."
-* Any earnings claim that is not qualified with the variable/target-based disclaimer.
-
-**What you should say:**
-
-* LiquidX is a Telegram-native liquidity access platform.
-* Yield is target-based and variable — performance changes monthly.
-* Capital is at risk. Members should only allocate what they can afford to lose.
-* No return is guaranteed. Read the docs before depositing.
+Construire son réseau tôt, puis upgrader progressivement son pack, est la combinaison la plus efficace pour maximiser l'override récurrent.
 
 ---
 
-## How the two earning layers work at Captain+
+## Parcours du Bronze vers Captain et au-delà
 
-<figure><img src="../.gitbook/assets/slide-04-two-layers.png" alt="Two earning layers — deposit commission and recurring yield share"><figcaption>Both the deposit commission and the recurring yield share are paid at your pack's rate — L1 for direct invites, L2 for their referrals.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-02-how-it-works.png" alt="Three steps — join, they invest, you earn on repeat"></figure>
 
-At every upper tier, you earn on two distinct events for every member:
+**Progression pas à pas :**
 
-1. **When they deposit** — you receive your L1 or L2 percentage of their deposit, once, immediately on-chain.
-2. **Every month they earn yield** — you receive that same percentage of their yield, recurring, for 12 months.
+1. **Bronze ($100)** — Commence, apprends la plateforme, obtiens ton lien.
+2. **Silver ($250)** — Même taux d'invitation (0 requis), commission 11%.
+3. **Gold ($500)** — 1 membre actif requis. Commission passe à 12%.
+4. **Platinum ($1,000)** — 5 membres requis. Commission 13%.
+5. **Diamond ($2,500)** — 10 membres requis. Commission 14%.
+6. **Captain ($5,000)** — 20 membres requis. Commission 15%.
 
-At Captain, a single member who deposits $5,000 and earns 35%/mo generates:
-- $750 on deposit (15% × $5,000)
-- $262.50/mo in yield share (15% × $1,750)
-- ~$3,150 in yield share over 12 months
-- Total from one member: ~$3,900
-
----
-
-## Getting to Captain and beyond
-
-**Path from Bronze to Captain:**
-
-1. Start with $100 Bronze. Learn the platform, earn your referral link.
-2. Invite your first qualified member (Gold requires 1). Earn your first deposit commission.
-3. Scale to Platinum ($1,000) — requires 5 active members. Commission rises to 13%.
-4. Scale to Diamond ($2,500) — requires 10 members. Commission rises to 14%.
-5. Captain ($5,000) — requires 20 active members. Commission rises to 15%.
-
-Each upgrade increases both your personal yield rate and your commission rate on your entire existing downline. The math compounds with each step.
+Chaque upgrade augmente à la fois ton taux de yield personnel et ton taux de commission sur l'ensemble de ton downline existant.
 
 ---
 
-## Start building
+## Responsabilités des partenaires upper-tier
 
-Open the Telegram mini-app, activate your pack, and go to the **Referral** tab for your personal invite link.
+Les partenaires Captain, Ambassador et VIP représentent LiquidX auprès d'un grand nombre de personnes.
 
-Official access: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**
+**Ce que tu dois faire :**
+- Éduquer les membres sur le fonctionnement de LiquidX — dépôts, packs, variabilité du yield, retraits, risques.
+- Onboarding précis — aucune promesse de gains inventés, aucun screenshot falsifié.
+- Orienter les membres vers le bot officiel pour le support — pas vers tes DMs.
+- Construire la rétention en aidant les membres à comprendre ce dans quoi ils sont.
 
-See [Partnership Program](referral-program.md) for the full commission structure and worked examples.
+**Ce que tu ne dois pas dire :**
+- "Yield garanti" ou "profit mensuel fixe."
+- "Aucun risque" ou "sans perte possible."
+- "Revenu passif garanti."
+- Tout chiffre de gains sans la mention "objectif, variable, non garanti."
+
+**Ce que tu dois dire :**
+- LiquidX est une plateforme d'accès à la liquidité native Telegram.
+- Le yield est un objectif — variable, change chaque mois.
+- Le capital est à risque. Les membres ne doivent allouer que ce qu'ils peuvent se permettre de perdre.
+- Aucun rendement n'est garanti. Lire la doc avant de déposer.
 
 ---
 
-*Capital at risk. All yield and commission figures are target-based, variable, and not guaranteed. Figures shown are illustrative only and depend on actual yields being realised on-chain. Early-exit fee: 50% in month 1, 10% after. Yield-share window: 12 months per downline member. Not financial advice. Official bot: [@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)*
+## Commencer
+
+Ouvre le mini-app Telegram, active ton pack, et va dans l'onglet **Referral** pour ton lien personnel.
+
+Accès officiel : **[@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)**
+
+Voir [Partnership Program](referral-program.md) pour la structure complète des commissions et les exemples calculés.
+
+---
+
+*Capital at risk. Tous les chiffres de yield et commission sont des objectifs — variables et non garantis. Exemples illustratifs uniquement. Frais de sortie : 50% le premier mois, 10% après. Fenêtre de yield share : 12 mois par membre. Pas de conseil financier. Bot officiel : [@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)*

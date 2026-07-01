@@ -5,36 +5,44 @@ coverY: 0
 
 # Partnership Program
 
-Turn your network into on-chain income.
+---
 
-Every LiquidX member receives a personal invite link the moment they activate a pack. Share that link — and you earn on every deposit *and* every month of yield your team generates, automatically, on-chain, in USDT.
+## Vue d'ensemble
 
-<figure><img src="../.gitbook/assets/slide-01-cover.png" alt="LiquidX Partnership Program — turn your network into on-chain income"><figcaption>Up to 40% monthly yield on your own capital. Up to 18% / 7% commission on your team's deposits and yield.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-01-cover.png" alt="LiquidX Partnership Program — turn your network into on-chain income"></figure>
+
+Chaque membre LiquidX qui active un pack reçoit un lien d'invitation personnel. Partage ce lien — et tu gagnes sur chaque dépôt *et* chaque mois de yield que ton équipe génère, automatiquement, on-chain, en USDT.
+
+**En bref :**
+- Jusqu'à **40% / mois** de yield sur ton propre capital (objectif)
+- Commission **18% / 7%** sur les dépôts et yields de ton équipe
+- Paiement en **USDT-TRON**, verifiable on-chain
+- Tout se gère depuis le **mini-app Telegram**
 
 ---
 
-## How it works — three steps
+## Comment ça fonctionne — 3 étapes
 
-<figure><img src="../.gitbook/assets/slide-02-how-it-works.png" alt="Three steps to a paying network"><figcaption>Share a link and let the on-chain ledger do the accounting.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-02-how-it-works.png" alt="Three steps to a paying network — join, they invest, you earn on repeat"></figure>
 
-**Step 1 — Join and get your link**\
-Pick a pack, activate your membership, and receive your personal invite link inside the Telegram mini-app.
+**Étape 1 — Rejoins et obtiens ton lien**\
+Choisis un pack, active ton membership, et reçois ton lien d'invitation personnel dans le mini-app Telegram.
 
-**Step 2 — They invest**\
-Anyone who joins through your link and funds a pack joins your team — up to two levels deep.
+**Étape 2 — Ils investissent**\
+Toute personne qui rejoint via ton lien et finance un pack intègre ton équipe — jusqu'à deux niveaux de profondeur.
 
-**Step 3 — You earn, on repeat**\
-You earn on their deposit once, then a share of their monthly yield — every month, on-chain, automatically.
+**Étape 3 — Tu gagnes, en continu**\
+Tu touches leur dépôt une fois, puis une part de leur yield mensuel — chaque mois, on-chain, automatiquement.
 
 ---
 
-## The commission ladder
+## L'échelle unifiée — un pack, tout en un
 
-Your pack sets your yield rate, your commission rate, and your network unlock threshold — all at once. As you upgrade, everything rises together.
+<figure><img src="../.gitbook/assets/slide-03-ladder.png" alt="One unified ladder — pack sets yield, commission rate, and invite requirement at once"></figure>
 
-<figure><img src="../.gitbook/assets/slide-03-ladder.png" alt="One unified ladder — pack sets everything at once"><figcaption>Yield, unlock requirement, and commission rate all rise together as you move up.</figcaption></figure>
+Ton pack détermine ton taux de yield, ton taux de commission, et le seuil d'invitations requis — tout à la fois. En montant d'un tier, tout augmente ensemble.
 
-| Pack | Deposit | Yield (target) | Invites required | Commission L1 / L2 |
+| Pack | Dépôt | Yield (objectif) | Invitations requises | Commission L1 / L2 |
 |---|---|---|---|---|
 | Bronze | $100 | 20% / mo | 0 | 10% / 3% |
 | Silver | $250 | 23% / mo | 0 | 11% / 3% |
@@ -45,169 +53,156 @@ Your pack sets your yield rate, your commission rate, and your network unlock th
 | Ambassador | $15,000 | 38% / mo | 50 | 17% / 6% |
 | VIP (Apex) | $50,000 | 40% / mo | 100 | 18% / 7% |
 
-> Yields are target-based and variable — never guaranteed. L1 = your direct invites. L2 = their referrals.
+> Yields sont des objectifs — variables, jamais garantis. L1 = tes invités directs. L2 = leurs referrals.
 
 ---
 
-## Two ways to earn on every person you invite
+## Deux façons de gagner sur chaque membre
 
-Every partner earns on two layers — and both pay at your pack's commission rate.
+<figure><img src="../.gitbook/assets/slide-04-two-layers.png" alt="Every partner earns on two layers — deposit commission one-time, yield share ongoing 12 months"></figure>
 
-<figure><img src="../.gitbook/assets/slide-04-two-layers.png" alt="Every partner earns on two layers"><figcaption>Deposit commission is paid once. Yield share is paid monthly for 12 months — both at your pack rate.</figcaption></figure>
+Chaque partenaire gagne sur **deux événements distincts**, tous deux payés à ton taux de pack :
 
-### 1. Deposit commission (one-time)
+**1. Commission sur le dépôt (une seule fois)**\
+Quand un membre de ton équipe dépose, tu reçois ton pourcentage L1 ou L2 de ce dépôt — payé une fois, instantanément on-chain.
 
-When someone in your team deposits, you earn your L1 or L2 percentage of that deposit — paid once, on-chain, the moment it settles.
+**2. Part du yield mensuel (récurrent · 12 mois)**\
+Chaque mois que ton équipe génère du yield, tu en reçois ce même pourcentage — pendant les 12 premiers mois de leur présence.
 
-### 2. Recurring yield share (ongoing · 12 months)
-
-Every month your team members earn yield, you earn that same L1 or L2 percentage of their yield — for their first 12 months on the platform.
-
-Your team is two levels deep:
-
-* **Level 1** — people you invited directly. You earn L1% on their deposits and yield.
-* **Level 2** — people your Level 1 members invited. You earn L2% on their deposits and yield.
-* The chain stops at Level 2. No deeper.
+- **Niveau 1 (L1)** — tes invités directs. Tu gagnes L1% sur leurs dépôts et yields.
+- **Niveau 2 (L2)** — les gens qu'ils ont invités. Tu gagnes L2% sur leurs dépôts et yields.
+- La chaîne s'arrête au niveau 2. Pas plus.
 
 ---
 
-## The upgrade effect — your rate rises on everyone
+## L'effet upgrade — ton taux monte sur toute ton équipe
 
-Upgrading your pack does not just increase your rate on future referrals. It increases your rate on every team member you have ever referred — immediately.
+<figure><img src="../.gitbook/assets/slide-05-upgrade-hook.png" alt="Upgrade your pack — your commission rate rises on everyone you've ever referred"></figure>
 
-<figure><img src="../.gitbook/assets/slide-05-upgrade-hook.png" alt="Upgrade your pack — your rate rises on everyone you've ever referred"><figcaption>Commission rates are looked up at the time of payout, not at the time of the referral. Upgrading retroactively benefits your entire downline.</figcaption></figure>
+Passer à un tier supérieur ne fait pas seulement augmenter ton taux sur tes futurs referrals. Il augmente ton taux sur **tous les membres que tu as jamais référés** — immédiatement.
 
-**Example:** You joined at Gold (12% L1). You build a team of 30 people. You then upgrade to VIP (18% L1). From the next payout cycle, you earn 18% on all 30 members — not just new ones added after the upgrade.
+Le taux est consulté au moment du paiement, pas au moment de la referral.
 
-This makes early network-building and later pack upgrades a compounding combination.
+**Exemple :** Tu es Gold (12% L1) avec 30 membres. Tu passes en VIP (18% L1). Dès le prochain cycle, tu gagnes 18% sur tes 30 membres existants — pas seulement sur les nouveaux.
 
 ---
 
-## Worked example — Gold tier, one referral
+## Exemple concret — Gold tier, une referral
 
-<figure><img src="../.gitbook/assets/slide-06-worked-example.png" alt="Worked example — Gold tier referring Sara"><figcaption>Gold pays 12% L1. Sara invests $1,000. You earn $120 on deposit, then 12% of her yield every month for 12 months.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-06-worked-example.png" alt="Worked example — You're Gold, you refer Sara, she invests $1,000"></figure>
 
-You are Gold. You invite Sara. Sara joins via your link and invests **$1,000**.
+Tu es Gold. Tu invites Sara. Sara rejoint via ton lien et investit **$1,000**.
 
-| Event | Your earnings |
+| Événement | Ce que tu gagnes |
 |---|---|
-| Sara's deposit lands on-chain | **$120** (12% of $1,000, one-time) |
-| Month 1: Sara earns 29% yield ($290) | **$34.80** (12% of $290) |
-| Month 2: same | **$34.80** |
-| … every month for 12 months | **$34.80 / mo** |
-| If you upgrade to VIP before any payout | Rate rises to **18%** on Sara — retroactively |
+| Dépôt de Sara confirmé on-chain | **$120** (12% de $1,000 — une fois) |
+| Mois 1 : Sara gagne 29% ($290) | **$34.80** (12% de $290) |
+| Mois 2 à 12 : idem | **$34.80 / mois** |
+| Si tu passes en VIP avant un paiement | Taux monte à **18%** sur Sara — rétroactivement |
 
-From one referral at Gold, you earn $120 on day one and up to $417.60 in yield share over 12 months — for a total of ~$537 from a single invite, before any upgrade.
+D'une seule invitation au tier Gold : **$120 au dépôt + jusqu'à $417.60 en yield share sur 12 mois**.
 
 ---
 
-## How a network compounds — Diamond example
+## Comment le réseau se démultiplie — exemple Diamond
 
-<figure><img src="../.gitbook/assets/slide-07-network.png" alt="Network compounds — Diamond with 10 members"><figcaption>Diamond at 14% rate. 10 members each at $1,000 (Platinum, 29%/mo) = $406/mo recurring override, plus $1,400 on their deposits.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-07-network.png" alt="Network compounds — Diamond with 10 members at $1,000 Platinum packs"></figure>
 
-You are Diamond (14% rate). You have 10 members, each with a Platinum pack ($1,000 at 29%/mo).
+Tu es Diamond (14%). Tu as 10 membres, chacun avec un pack Platinum ($1,000 à 29%/mois).
 
-**Monthly recurring override:**
-
-* Each member earns $290/mo (29% of $1,000)
-* Your share: 14% of $290 = **$40.60 per member**
-* Across 10 members: **$406 / month**
-
-**One-time deposit commission:**
-
-* 14% × $1,000 × 10 members = **$1,400** (paid on each deposit)
-
-**How it scales at Diamond 14%, $1,000 average deposit:**
-
-| Network size | Monthly override |
+| Calcul | Résultat |
 |---|---|
-| 10 people | $406 / mo |
-| 25 people | $1,015 / mo |
-| 50 people | $2,030 / mo |
-| 100 people | $4,060 / mo |
+| Yield mensuel par membre ($1,000 × 29%) | $290 |
+| Ta part par membre (14% × $290) | $40.60 |
+| Override mensuel total (10 membres) | **$406 / mois** |
+| Commission sur les dépôts (14% × $1,000 × 10) | **+$1,400** (one-time) |
 
-Year 1 total from 10 members: ≈ **$6,272**
+**Projection avec Diamond 14%, dépôt moyen $1,000 :**
 
----
-
-## The VIP ceiling — serious recurring income
-
-<figure><img src="../.gitbook/assets/slide-08-vip-ceiling.png" alt="VIP ceiling — 18% on 100 members = $40,320/mo"><figcaption>VIP at 18%. 100 members averaging $7,000 (Diamond, 32%/mo) = $40,320/mo recurring + $126,000 in deposit commission.</figcaption></figure>
-
-You are VIP (18% rate). Your 100 members average a $7,000 Diamond pack (32%/mo).
-
-**Monthly recurring override:**
-
-* Each member earns $2,240/mo (32% of $7,000)
-* Your share: 18% of $2,240 = **$403 per member**
-* Across 100 members: **$40,320 / month**
-
-**One-time deposit commission:**
-
-* 18% × $7,000 × 100 members = **$126,000**
-
-**How it scales at VIP 18%, $7,000 average deposit:**
-
-| Network size | Monthly override |
+| Réseau | Override mensuel |
 |---|---|
-| 25 people | $10,080 / mo |
-| 50 people | $20,160 / mo |
-| 100 people | $40,320 / mo |
+| 10 personnes | $406 / mois |
+| 25 personnes | $1,015 / mois |
+| 50 personnes | $2,030 / mois |
+| 100 personnes | $4,060 / mois |
 
-Year 1 total from 100 members: ≈ **$483,840**
-
-> Illustration only. Yields are target-based and variable — never guaranteed. Overrides paid only when yield lands on-chain. Each member's override runs 12 months.
+Année 1 avec 10 membres : **≈ $6,272**
 
 ---
 
-## Trust, fees, and the honest fine print
+## Le plafond VIP — revenus sérieux
 
-<figure><img src="../.gitbook/assets/slide-09-fees.png" alt="On-chain, transparent, and honest"><figcaption>All commissions settle in USDT-on-TRON. No hidden fees. No lock period — but early-exit fees apply.</figcaption></figure>
+<figure><img src="../.gitbook/assets/slide-08-vip-ceiling.png" alt="VIP ceiling — 18% rate on 100 members averaging $7,000 Diamond packs = $40,320/month"></figure>
 
-**Settled on-chain.** Every commission and yield share is paid in USDT-on-TRON, verifiable on the ledger.
+Tu es VIP (18%). Tes 100 membres ont en moyenne un pack Diamond à $7,000 (32%/mois).
 
-**No lock — withdraw anytime.** Your capital is yours to move. An early-exit fee is disclosed before you confirm — never a surprise.
-
-**No inflated promises.** Returns are targets, not guarantees. LiquidX states this clearly and upfront.
-
-**Native to Telegram.** Invite, track, and get paid without leaving chat — the entire program lives in the mini-app.
-
-### The fine print
-
-| Term | Detail |
+| Calcul | Résultat |
 |---|---|
-| Yields | Target-based and variable. Nothing is guaranteed. |
-| Early-exit fee | 50% within the first month of a new investment or upgrade. 10% after. |
-| Yield-share window | Recurring yield share runs for the first 12 months of each downline member's activity. |
-| Settlement currency | USDT-on-TRON |
-| Network depth | Two levels only. L1 = direct. L2 = their referrals. Stops there. |
-| Payment trigger | Commissions and shares settle only when the underlying deposit or yield lands on-chain. |
+| Yield mensuel par membre ($7,000 × 32%) | $2,240 |
+| Ta part par membre (18% × $2,240) | $403 |
+| Override mensuel total (100 membres) | **$40,320 / mois** |
+| Commission sur les dépôts (18% × $7,000 × 100) | **+$126,000** (one-time) |
+
+**Projection avec VIP 18%, dépôt moyen $7,000 :**
+
+| Réseau | Override mensuel |
+|---|---|
+| 25 personnes | $10,080 / mois |
+| 50 personnes | $20,160 / mois |
+| 100 personnes | $40,320 / mois |
+
+Année 1 avec 100 membres : **≈ $483,840**
+
+> Illustration uniquement. Yields sont des objectifs — variables et jamais garantis.
 
 ---
 
-## What referrers must not do
+## Transparence, frais et fine print
 
-* Promise guaranteed returns or fixed monthly profit.
-* Claim there is no risk.
-* Use fake screenshots, fabricated earnings, or inflated projections.
-* Spam Telegram groups or DM users unsolicited.
-* Pressure users into depositing money they cannot afford to lose.
-* Impersonate LiquidX support.
-* Create fake accounts or use bots.
+<figure><img src="../.gitbook/assets/slide-09-fees.png" alt="On-chain, transparent, and honest — fees, trust, and the fine print"></figure>
 
-Violating these standards may result in removal from the program and forfeiture of pending rewards.
+**Réglé on-chain.** Chaque commission et part de yield est payée en USDT-on-TRON — vérifiable sur le ledger.
+
+**Pas de blocage — retrait à tout moment.** Ton capital t'appartient. Les frais de sortie anticipée sont affichés avant confirmation — jamais une surprise.
+
+**Aucune promesse gonflée.** Les rendements sont des objectifs, pas des garanties. LiquidX le dit clairement, en amont.
+
+**Natif Telegram.** Invite, suis, et sois payé sans quitter le chat — le programme entier vit dans le mini-app.
+
+### Le fine print complet
+
+| Terme | Détail |
+|---|---|
+| Yields | Objectifs variables. Rien n'est garanti. |
+| Frais de sortie anticipée | 50% dans le premier mois d'un nouveau dépôt ou upgrade. 10% après. |
+| Fenêtre de yield share | Le partage de yield récurrent s'applique aux 12 premiers mois de chaque membre du réseau. |
+| Devise de règlement | USDT-on-TRON |
+| Profondeur du réseau | Deux niveaux uniquement. L1 = direct. L2 = leurs referrals. Pas plus loin. |
+| Déclenchement du paiement | Les commissions et parts ne se règlent que lorsque le dépôt ou le yield correspondant arrive on-chain. |
 
 ---
 
-## Get started
+## Ce que les referrers ne doivent pas faire
 
-1. Open the official LiquidX Telegram app: **[@LiquidX_official_bot](https://t.me/LiquidX_official_bot)**
-2. Activate a pack (minimum $100 — Bronze).
-3. Go to the **Referral** tab and copy your personal invite link.
-4. Share it. Earn on every deposit and every month of yield.
-
-See [Liquidity Captains](liquidity-captains.md) for the Captain, Ambassador, and VIP tier breakdown.
+- Promettre des rendements garantis ou un profit mensuel fixe.
+- Affirmer qu'il n'y a aucun risque.
+- Utiliser de faux screenshots ou des gains inventés.
+- Spammer des groupes Telegram ou DM des utilisateurs sans accord.
+- Pousser des gens à déposer de l'argent qu'ils ne peuvent pas se permettre de perdre.
+- Usurper l'identité du support LiquidX.
+- Créer des faux comptes ou utiliser des bots.
 
 ---
 
-*Capital at risk. All yield figures are targets — variable and not guaranteed. Commission figures shown are illustrative only and depend on actual yields being realised on-chain. Early-exit fees apply. Not financial advice. Official bot: [@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)*
+## Commencer
+
+1. Ouvre le mini-app officiel : **[@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)**
+2. Active un pack (minimum $100 — Bronze).
+3. Va dans l'onglet **Referral** et copie ton lien personnel.
+4. Partage-le. Gagne sur chaque dépôt et chaque mois de yield.
+
+Voir [Liquidity Captains](liquidity-captains.md) pour le détail des tiers Captain, Ambassador et VIP.
+
+---
+
+*Capital at risk. Tous les chiffres de yield et commission sont des objectifs — variables et non garantis. Exemples illustratifs uniquement. Frais de sortie anticipée applicables. Pas de conseil financier. Bot officiel : [@LiquidX\_official\_bot](https://t.me/LiquidX_official_bot)*
