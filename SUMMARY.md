@@ -46,6 +46,15 @@
 * [Fund Segregation](trust-and-risk/fund-segregation.md)
 * [Jurisdiction & Availability](trust-and-risk/jurisdiction-availability.md)
 
+## DeFi Pools — Solana
+
+* [Overview](defi-pools/overview.md)
+* [Meteora DLMM](defi-pools/meteora-dlmm.md)
+* [Orca Whirlpools](defi-pools/orca-whirlpools.md)
+* [Raydium AMM & CLMM](defi-pools/raydium.md)
+* [Memecoin Liquidity](defi-pools/memecoin-liquidity.md)
+* [Live Pool Data](defi-pools/pool-live-tracker.md)
+
 ## Learn
 
 * [What Is Liquidity?](learn/what-is-liquidity.md)
