@@ -32,9 +32,9 @@
 
 ## Network
 
-* [Referral Program](network/referral-program.md)
-* [Qualified Invites](network/qualified-invites.md)
+* [Partnership Program](network/referral-program.md)
 * [Liquidity Captains](network/liquidity-captains.md)
+* [Qualified Invites](network/qualified-invites.md)
 * [Community Status](network/community-status.md)
 * [Leaderboards](network/leaderboards.md)
 
